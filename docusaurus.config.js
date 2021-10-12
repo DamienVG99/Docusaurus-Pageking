@@ -66,10 +66,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                 label: 'Website',
                 href: 'https://pageking.nl',
               },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
             ],
           },
         ],
