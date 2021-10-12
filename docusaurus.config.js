@@ -36,7 +36,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         title: 'Pageking Wiki',
         logo: {
           alt: 'Pageking',
-          src: 'img/logo.svg',
+          src: 'img/logo.gif',
         },
         items: [
           {
