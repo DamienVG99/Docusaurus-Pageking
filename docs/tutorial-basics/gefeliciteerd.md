@@ -10,7 +10,7 @@ Laten we beginnen bij het begin. Wel zo makkelijk 😉
 
 ## Inhoud van Je Eerste Login
 
-- [Inloggen](/inloggen.md)
+- [Inloggen](inloggen)
 - [Mediabibliotheek](https://wiki.pageking.nl/docs/tutorial-basics/mediabibliotheek)
 - [Formulieren](https://wiki.pageking.nl/docs/tutorial-basics/formulieren)
 - [Pagina's](https://wiki.pageking.nl/docs/tutorial-basics/paginas)
