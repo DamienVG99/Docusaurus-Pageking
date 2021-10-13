@@ -5,9 +5,7 @@ sidebar_position: 2
 # Inloggen 🔐
 
 ## Het prille begin.
-
 De eerste keer inloggen op je website. Om dit te doen krijg je de inloglink van jouw website toegestuurd. Dit is standaard https://JOUWDOMEINNAAMHIER.nl/wp-admin.
-
 Vul hier de door ons aangeleverde inloggegevens in. De pagina ziet er zo uit.
 
 <img src="https://wiki.pageking.nl/img/wp-admin.png"></img>
