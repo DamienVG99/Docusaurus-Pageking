@@ -11,3 +11,21 @@ Hiervoor open je het detail paneel van de afbeelding in de mediabibliotheek en d
 <img src="https://wiki.pageking.nl/img/bijlagedetail.png"></img>
 
 Zodra je op deze knop klikt kom je op een pagina terecht waar je de afbeelding kunt bewerken.
+
+<img src="https://wiki.pageking.nl/img/afbeeldingbewerkenfull.png"></img>
+
+Aan de linkerkant kun je kiezen uit de opties *Bijsnijden, Roteer naar links, Roteer naar rechts, Verticaal en horizontaal spiegelen.*
+
+<img src="https://wiki.pageking.nl/img/afbeeldingbewerkenlinks.png"></img>
+
+:::warning
+
+Let op: Om bij te snijden zul je na het bijsnijden, nogmaals op bijsnijden moeten klikken om daadwerkelijk bij te snijden.
+
+:::
+
+<img src="https://wiki.pageking.nl/img/afbeeldingbewerkenrechts.png"></img>
+
+Aan de rechterkant kun je de afbeelding schalen of bijsnijden op basis van aspect ratio en selectie.
+
+Het volgende artikel gaat over Filebird Pro. Dit is een toevoeging voor je als je met veel media werkt en deze duidelijk wilt indelen.
