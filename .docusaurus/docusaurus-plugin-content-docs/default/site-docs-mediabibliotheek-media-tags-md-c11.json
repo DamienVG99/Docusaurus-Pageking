@@ -1,0 +1,26 @@
+{
+  "unversionedId": "mediabibliotheek/media-tags",
+  "id": "mediabibliotheek/media-tags",
+  "isDocsHomePage": false,
+  "title": "Media tags",
+  "description": "In de mediabibliotheek kun je de afbeelding, video of het bestand openen door erop te drukken. Je krijgt de foto in het groot te zien en aan de rechterkant zie je een aantal invulvelden staan.",
+  "source": "@site/docs/mediabibliotheek/media-tags.md",
+  "sourceDirName": "mediabibliotheek",
+  "slug": "/mediabibliotheek/media-tags",
+  "permalink": "/docs/mediabibliotheek/media-tags",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/mediabibliotheek/media-tags.md",
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mediabibliotheek 📸",
+    "permalink": "/docs/mediabibliotheek/media-uploaden"
+  },
+  "next": {
+    "title": "Afbeeldingen bewerken 🛠️",
+    "permalink": "/docs/mediabibliotheek/media-aanpassen"
+  }
+}

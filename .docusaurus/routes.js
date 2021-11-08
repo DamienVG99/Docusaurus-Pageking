@@ -24,7 +24,7 @@ export default [
 },
 {
   path: '/docs',
-  component: ComponentCreator('/docs','412'),
+  component: ComponentCreator('/docs','705'),
   
   routes: [
 {
@@ -63,23 +63,23 @@ export default [
   exact: true,
 },
 {
-  path: '/docs/tutorial-extras/filebird',
-  component: ComponentCreator('/docs/tutorial-extras/filebird','f4b'),
+  path: '/docs/mediabibliotheek/filebird',
+  component: ComponentCreator('/docs/mediabibliotheek/filebird','0dd'),
   exact: true,
 },
 {
-  path: '/docs/tutorial-extras/media-aanpassen',
-  component: ComponentCreator('/docs/tutorial-extras/media-aanpassen','177'),
+  path: '/docs/mediabibliotheek/media-aanpassen',
+  component: ComponentCreator('/docs/mediabibliotheek/media-aanpassen','aa4'),
   exact: true,
 },
 {
-  path: '/docs/tutorial-extras/media-tags',
-  component: ComponentCreator('/docs/tutorial-extras/media-tags','990'),
+  path: '/docs/mediabibliotheek/media-tags',
+  component: ComponentCreator('/docs/mediabibliotheek/media-tags','f8b'),
   exact: true,
 },
 {
-  path: '/docs/tutorial-extras/media-uploaden',
-  component: ComponentCreator('/docs/tutorial-extras/media-uploaden','cbc'),
+  path: '/docs/mediabibliotheek/media-uploaden',
+  component: ComponentCreator('/docs/mediabibliotheek/media-uploaden','b72'),
   exact: true,
 },
 ]

@@ -54,22 +54,22 @@
           {
             "type": "link",
             "label": "Mediabibliotheek 📸",
-            "href": "/docs/tutorial-extras/media-uploaden"
+            "href": "/docs/mediabibliotheek/media-uploaden"
           },
           {
             "type": "link",
             "label": "Media tags",
-            "href": "/docs/tutorial-extras/media-tags"
+            "href": "/docs/mediabibliotheek/media-tags"
           },
           {
             "type": "link",
             "label": "Afbeeldingen bewerken 🛠️",
-            "href": "/docs/tutorial-extras/media-aanpassen"
+            "href": "/docs/mediabibliotheek/media-aanpassen"
           },
           {
             "type": "link",
             "label": "FileBird 🐦",
-            "href": "/docs/tutorial-extras/filebird"
+            "href": "/docs/mediabibliotheek/filebird"
           }
         ],
         "collapsed": true
@@ -84,9 +84,9 @@
     "/docs/je-eerste-login/mediabibliotheek": "tutorialSidebar",
     "/docs/je-eerste-login/paginas": "tutorialSidebar",
     "/docs/je-eerste-login/thatsit": "tutorialSidebar",
-    "/docs/tutorial-extras/filebird": "tutorialSidebar",
-    "/docs/tutorial-extras/media-aanpassen": "tutorialSidebar",
-    "/docs/tutorial-extras/media-tags": "tutorialSidebar",
-    "/docs/tutorial-extras/media-uploaden": "tutorialSidebar"
+    "/docs/mediabibliotheek/filebird": "tutorialSidebar",
+    "/docs/mediabibliotheek/media-aanpassen": "tutorialSidebar",
+    "/docs/mediabibliotheek/media-tags": "tutorialSidebar",
+    "/docs/mediabibliotheek/media-uploaden": "tutorialSidebar"
   }
 }

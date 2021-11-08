@@ -46,23 +46,23 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/filebird",
-              "path": "/docs/tutorial-extras/filebird",
+              "id": "mediabibliotheek/filebird",
+              "path": "/docs/mediabibliotheek/filebird",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/media-aanpassen",
-              "path": "/docs/tutorial-extras/media-aanpassen",
+              "id": "mediabibliotheek/media-aanpassen",
+              "path": "/docs/mediabibliotheek/media-aanpassen",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/media-tags",
-              "path": "/docs/tutorial-extras/media-tags",
+              "id": "mediabibliotheek/media-tags",
+              "path": "/docs/mediabibliotheek/media-tags",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/media-uploaden",
-              "path": "/docs/tutorial-extras/media-uploaden",
+              "id": "mediabibliotheek/media-uploaden",
+              "path": "/docs/mediabibliotheek/media-uploaden",
               "sidebar": "tutorialSidebar"
             }
           ]
