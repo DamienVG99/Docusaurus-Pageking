@@ -1,0 +1,26 @@
+{
+  "unversionedId": "je-eerste-login/mediabibliotheek",
+  "id": "je-eerste-login/mediabibliotheek",
+  "isDocsHomePage": false,
+  "title": "Mediabibliotheek 📸",
+  "description": "De verzamelplek voor al je fotos, videos en bestanden.",
+  "source": "@site/docs/je-eerste-login/mediabibliotheek.md",
+  "sourceDirName": "je-eerste-login",
+  "slug": "/je-eerste-login/mediabibliotheek",
+  "permalink": "/docs/je-eerste-login/mediabibliotheek",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/je-eerste-login/mediabibliotheek.md",
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Inloggen 🔐",
+    "permalink": "/docs/je-eerste-login/inloggen"
+  },
+  "next": {
+    "title": "Formulieren 📑",
+    "permalink": "/docs/je-eerste-login/formulieren"
+  }
+}

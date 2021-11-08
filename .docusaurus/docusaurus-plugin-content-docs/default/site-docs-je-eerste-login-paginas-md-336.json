@@ -1,0 +1,26 @@
+{
+  "unversionedId": "je-eerste-login/paginas",
+  "id": "je-eerste-login/paginas",
+  "isDocsHomePage": false,
+  "title": "Pagina's 📃",
+  "description": "De plek waar jij jouw website kunt gaan vullen. Het beste voorbeeld heb ik vanuit onze website. Klik daarvoor op deze link.",
+  "source": "@site/docs/je-eerste-login/paginas.md",
+  "sourceDirName": "je-eerste-login",
+  "slug": "/je-eerste-login/paginas",
+  "permalink": "/docs/je-eerste-login/paginas",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/je-eerste-login/paginas.md",
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Formulieren 📑",
+    "permalink": "/docs/je-eerste-login/formulieren"
+  },
+  "next": {
+    "title": "That's it! 🥳",
+    "permalink": "/docs/je-eerste-login/thatsit"
+  }
+}

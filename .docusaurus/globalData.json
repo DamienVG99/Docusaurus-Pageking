@@ -16,43 +16,53 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/congratulations",
-              "path": "/docs/tutorial-basics/congratulations",
+              "id": "je-eerste-login/formulieren",
+              "path": "/docs/je-eerste-login/formulieren",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-blog-post",
-              "path": "/docs/tutorial-basics/create-a-blog-post",
+              "id": "je-eerste-login/gefeliciteerd",
+              "path": "/docs/je-eerste-login/gefeliciteerd",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-document",
-              "path": "/docs/tutorial-basics/create-a-document",
+              "id": "je-eerste-login/inloggen",
+              "path": "/docs/je-eerste-login/inloggen",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-page",
-              "path": "/docs/tutorial-basics/create-a-page",
+              "id": "je-eerste-login/mediabibliotheek",
+              "path": "/docs/je-eerste-login/mediabibliotheek",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/deploy-your-site",
-              "path": "/docs/tutorial-basics/deploy-your-site",
+              "id": "je-eerste-login/paginas",
+              "path": "/docs/je-eerste-login/paginas",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/markdown-features",
-              "path": "/docs/tutorial-basics/markdown-features",
+              "id": "je-eerste-login/thatsit",
+              "path": "/docs/je-eerste-login/thatsit",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/manage-docs-versions",
-              "path": "/docs/tutorial-extras/manage-docs-versions",
+              "id": "tutorial-extras/filebird",
+              "path": "/docs/tutorial-extras/filebird",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/translate-your-site",
-              "path": "/docs/tutorial-extras/translate-your-site",
+              "id": "tutorial-extras/media-aanpassen",
+              "path": "/docs/tutorial-extras/media-aanpassen",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/media-tags",
+              "path": "/docs/tutorial-extras/media-tags",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/media-uploaden",
+              "path": "/docs/tutorial-extras/media-uploaden",
               "sidebar": "tutorialSidebar"
             }
           ]

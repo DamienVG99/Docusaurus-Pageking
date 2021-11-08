@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-extras/media-tags",
+  "id": "tutorial-extras/media-tags",
+  "isDocsHomePage": false,
+  "title": "Media tags",
+  "description": "In de mediabibliotheek kun je de afbeelding, video of het bestand openen door erop te drukken. Je krijgt de foto in het groot te zien en aan de rechterkant zie je een aantal invulvelden staan.",
+  "source": "@site/docs/tutorial-extras/media-tags.md",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/media-tags",
+  "permalink": "/docs/tutorial-extras/media-tags",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/tutorial-extras/media-tags.md",
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mediabibliotheek 📸",
+    "permalink": "/docs/tutorial-extras/media-uploaden"
+  },
+  "next": {
+    "title": "Afbeeldingen bewerken 🛠️",
+    "permalink": "/docs/tutorial-extras/media-aanpassen"
+  }
+}

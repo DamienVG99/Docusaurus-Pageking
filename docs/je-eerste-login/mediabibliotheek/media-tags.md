@@ -29,7 +29,7 @@ De onderste drie links (waaronder <span color="red">Permanent verwijderen</span>
 
 :::
 
-:::tip
+:::tip Tip
 
 Wist je dat je ook je fotos ook kunt bijsnijden binnen jouw WordPress omgeving? Klik op het volgende artikel om hier alles over te weten te komen!
 

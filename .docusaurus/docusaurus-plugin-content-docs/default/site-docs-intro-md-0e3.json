@@ -2,22 +2,23 @@
   "unversionedId": "intro",
   "id": "intro",
   "isDocsHomePage": false,
-  "title": "Tutorial Intro",
-  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "title": "Welkom op de Wiki van Pageking!",
+  "description": "De officiële Pageking Wiki is op dit moment in aanbouw. Mis je iets? Laat het dan weten via support@pageking.nl. We maken hier dan zo snel mogelijk een artikel over.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
   "permalink": "/docs/intro",
-  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/intro.md",
-  "tags": [],
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/intro.md",
   "version": "current",
+  "sidebar_label": "Welkom op onze Wiki!",
   "sidebarPosition": 1,
   "frontMatter": {
+    "sidebar_label": "Welkom op onze Wiki!",
     "sidebar_position": 1
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Create a Page",
-    "permalink": "/docs/tutorial-basics/create-a-page"
+    "title": "Gefeliciteerd!",
+    "permalink": "/docs/je-eerste-login/gefeliciteerd"
   }
 }

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "je-eerste-login/inloggen",
+  "id": "je-eerste-login/inloggen",
+  "isDocsHomePage": false,
+  "title": "Inloggen 🔐",
+  "description": "Het prille begin.",
+  "source": "@site/docs/je-eerste-login/inloggen.md",
+  "sourceDirName": "je-eerste-login",
+  "slug": "/je-eerste-login/inloggen",
+  "permalink": "/docs/je-eerste-login/inloggen",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/je-eerste-login/inloggen.md",
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Gefeliciteerd!",
+    "permalink": "/docs/je-eerste-login/gefeliciteerd"
+  },
+  "next": {
+    "title": "Mediabibliotheek 📸",
+    "permalink": "/docs/je-eerste-login/mediabibliotheek"
+  }
+}

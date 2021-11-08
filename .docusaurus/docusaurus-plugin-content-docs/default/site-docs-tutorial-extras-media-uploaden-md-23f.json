@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-extras/media-uploaden",
+  "id": "tutorial-extras/media-uploaden",
+  "isDocsHomePage": false,
+  "title": "Mediabibliotheek 📸",
+  "description": "De mediabibliotheek is in de basis de plek waar je je fotos, videos en bestanden kunt uploaden om te gebruiken op je website.",
+  "source": "@site/docs/tutorial-extras/media-uploaden.md",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/media-uploaden",
+  "permalink": "/docs/tutorial-extras/media-uploaden",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/tutorial-extras/media-uploaden.md",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "That's it! 🥳",
+    "permalink": "/docs/je-eerste-login/thatsit"
+  },
+  "next": {
+    "title": "Media tags",
+    "permalink": "/docs/tutorial-extras/media-tags"
+  }
+}

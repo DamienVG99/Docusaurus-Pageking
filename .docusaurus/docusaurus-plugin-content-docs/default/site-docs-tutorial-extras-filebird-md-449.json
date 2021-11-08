@@ -1,0 +1,22 @@
+{
+  "unversionedId": "tutorial-extras/filebird",
+  "id": "tutorial-extras/filebird",
+  "isDocsHomePage": false,
+  "title": "FileBird 🐦",
+  "description": "Een mogelijkheid is het installeren van FileBird. Hiermee kun je in je WordPress omgeving een mappenstructuur aanmaken voor je bestanden, afbeeldingen en videos.",
+  "source": "@site/docs/tutorial-extras/filebird.md",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/filebird",
+  "permalink": "/docs/tutorial-extras/filebird",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/tutorial-extras/filebird.md",
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Afbeeldingen bewerken 🛠️",
+    "permalink": "/docs/tutorial-extras/media-aanpassen"
+  }
+}

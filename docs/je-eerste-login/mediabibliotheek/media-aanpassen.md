@@ -18,9 +18,9 @@ Aan de linkerkant kun je kiezen uit de opties *Bijsnijden, Roteer naar links, Ro
 
 <img src="https://wiki.pageking.nl/img/afbeeldingbewerkenlinks.png"></img>
 
-:::warning
+:::warning Let op
 
-Let op: Om bij te snijden zul je na het bijsnijden, nogmaals op bijsnijden moeten klikken om daadwerkelijk bij te snijden.
+Om bij te snijden zul je na het bijsnijden, nogmaals op bijsnijden moeten klikken om daadwerkelijk bij te snijden.
 
 :::
 

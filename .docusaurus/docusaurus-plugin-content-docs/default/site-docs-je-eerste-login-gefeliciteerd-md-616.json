@@ -1,0 +1,26 @@
+{
+  "unversionedId": "je-eerste-login/gefeliciteerd",
+  "id": "je-eerste-login/gefeliciteerd",
+  "isDocsHomePage": false,
+  "title": "Gefeliciteerd!",
+  "description": "Als je de link naar onze Wiki hebt gekregen, betekend dat dat we klaar zijn met het maken van je website! 🎉 Maar wat nu?",
+  "source": "@site/docs/je-eerste-login/gefeliciteerd.md",
+  "sourceDirName": "je-eerste-login",
+  "slug": "/je-eerste-login/gefeliciteerd",
+  "permalink": "/docs/je-eerste-login/gefeliciteerd",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/je-eerste-login/gefeliciteerd.md",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Welkom op de Wiki van Pageking!",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Inloggen 🔐",
+    "permalink": "/docs/je-eerste-login/inloggen"
+  }
+}

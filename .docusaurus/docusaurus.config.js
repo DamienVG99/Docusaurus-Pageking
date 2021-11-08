@@ -1,54 +1,39 @@
 export default {
-  "title": "My Site",
-  "tagline": "Dinosaurs are cool",
-  "url": "https://your-docusaurus-test-site.com",
+  "title": "Pageking Wiki",
+  "tagline": "Laat je merk stralen",
+  "url": "https://wiki.pageking.nl",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "organizationName": "damienvg99",
+  "projectName": "Docusaurus-Pageking",
   "presets": [
     [
       "@docusaurus/preset-classic",
       {
         "docs": {
           "sidebarPath": "C:\\xampp\\htdocs\\my-website\\sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/"
+          "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking"
         },
-        "blog": {
-          "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/"
-        },
-        "theme": {
-          "customCss": "C:\\xampp\\htdocs\\my-website\\src\\css\\custom.css"
-        }
+        "blog": false
       }
     ]
   ],
   "themeConfig": {
     "navbar": {
-      "title": "My Site",
+      "title": "Pageking Wiki",
       "logo": {
-        "alt": "My Site Logo",
-        "src": "img/logo.svg"
+        "alt": "Pageking",
+        "src": "img/logo.gif"
       },
       "items": [
         {
           "type": "doc",
           "docId": "intro",
           "position": "left",
-          "label": "Tutorial"
-        },
-        {
-          "to": "/blog",
-          "label": "Blog",
-          "position": "left"
-        },
-        {
-          "href": "https://github.com/facebook/docusaurus",
-          "label": "GitHub",
-          "position": "right"
+          "label": "Tutorial",
+          "activeSidebarClassName": "navbar__link--active"
         }
       ],
       "hideOnScroll": false
@@ -66,37 +51,16 @@ export default {
           ]
         },
         {
-          "title": "Community",
+          "title": "Links",
           "items": [
             {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
-            },
-            {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
-            }
-          ]
-        },
-        {
-          "title": "More",
-          "items": [
-            {
-              "label": "Blog",
-              "to": "/blog"
-            },
-            {
-              "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "label": "Website",
+              "href": "https://pageking.nl"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2021 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2021 Pageking. Built with Docusaurus."
     },
     "prism": {
       "theme": {

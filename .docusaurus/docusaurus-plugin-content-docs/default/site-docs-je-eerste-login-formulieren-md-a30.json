@@ -1,0 +1,26 @@
+{
+  "unversionedId": "je-eerste-login/formulieren",
+  "id": "je-eerste-login/formulieren",
+  "isDocsHomePage": false,
+  "title": "Formulieren 📑",
+  "description": "Hier komen je formulieren te staan. Dit kan variëren van een simpel contactformulier tot een volledig formulier voor een sollicitant. Je kunt deze zelf aanmaken, echter het plaatsen hiervan kan lastig zijn. Hier kun je het beste ons advies voor vragen. Snel contact? Altijd via support@pageking.nl!",
+  "source": "@site/docs/je-eerste-login/formulieren.md",
+  "sourceDirName": "je-eerste-login",
+  "slug": "/je-eerste-login/formulieren",
+  "permalink": "/docs/je-eerste-login/formulieren",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/je-eerste-login/formulieren.md",
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mediabibliotheek 📸",
+    "permalink": "/docs/je-eerste-login/mediabibliotheek"
+  },
+  "next": {
+    "title": "Pagina's 📃",
+    "permalink": "/docs/je-eerste-login/paginas"
+  }
+}

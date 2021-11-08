@@ -2,73 +2,91 @@
   "pluginId": "default",
   "version": "current",
   "label": "Next",
-  "banner": null,
-  "badge": false,
-  "className": "docs-version-current",
   "isLast": true,
   "docsSidebars": {
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "Tutorial Intro",
+        "label": "Welkom op onze Wiki!",
         "href": "/docs/intro"
       },
       {
         "type": "category",
-        "label": "Tutorial - Basics",
+        "label": "Je eerste login",
         "items": [
           {
             "type": "link",
-            "label": "Create a Page",
-            "href": "/docs/tutorial-basics/create-a-page"
+            "label": "Gefeliciteerd!",
+            "href": "/docs/je-eerste-login/gefeliciteerd"
           },
           {
             "type": "link",
-            "label": "Create a Document",
-            "href": "/docs/tutorial-basics/create-a-document"
+            "label": "Inloggen 🔐",
+            "href": "/docs/je-eerste-login/inloggen"
           },
           {
             "type": "link",
-            "label": "Create a Blog Post",
-            "href": "/docs/tutorial-basics/create-a-blog-post"
+            "label": "Mediabibliotheek 📸",
+            "href": "/docs/je-eerste-login/mediabibliotheek"
           },
           {
             "type": "link",
-            "label": "Markdown Features",
-            "href": "/docs/tutorial-basics/markdown-features"
+            "label": "Formulieren 📑",
+            "href": "/docs/je-eerste-login/formulieren"
           },
           {
             "type": "link",
-            "label": "Deploy your site",
-            "href": "/docs/tutorial-basics/deploy-your-site"
+            "label": "Pagina's 📃",
+            "href": "/docs/je-eerste-login/paginas"
           },
           {
             "type": "link",
-            "label": "Congratulations!",
-            "href": "/docs/tutorial-basics/congratulations"
+            "label": "That's it! 🥳",
+            "href": "/docs/je-eerste-login/thatsit"
           }
         ],
-        "collapsed": true,
-        "collapsible": true
+        "collapsed": true
       },
       {
         "type": "category",
-        "label": "Tutorial - Extras",
+        "label": "Mediabibliotheek",
         "items": [
           {
             "type": "link",
-            "label": "Manage Docs Versions",
-            "href": "/docs/tutorial-extras/manage-docs-versions"
+            "label": "Mediabibliotheek 📸",
+            "href": "/docs/tutorial-extras/media-uploaden"
           },
           {
             "type": "link",
-            "label": "Translate your site",
-            "href": "/docs/tutorial-extras/translate-your-site"
+            "label": "Media tags",
+            "href": "/docs/tutorial-extras/media-tags"
+          },
+          {
+            "type": "link",
+            "label": "Afbeeldingen bewerken 🛠️",
+            "href": "/docs/tutorial-extras/media-aanpassen"
+          },
+          {
+            "type": "link",
+            "label": "FileBird 🐦",
+            "href": "/docs/tutorial-extras/filebird"
           }
         ],
-        "collapsed": true,
-        "collapsible": true
+        "collapsed": true
       }
     ]
+  },
+  "permalinkToSidebar": {
+    "/docs/intro": "tutorialSidebar",
+    "/docs/je-eerste-login/formulieren": "tutorialSidebar",
+    "/docs/je-eerste-login/gefeliciteerd": "tutorialSidebar",
+    "/docs/je-eerste-login/inloggen": "tutorialSidebar",
+    "/docs/je-eerste-login/mediabibliotheek": "tutorialSidebar",
+    "/docs/je-eerste-login/paginas": "tutorialSidebar",
+    "/docs/je-eerste-login/thatsit": "tutorialSidebar",
+    "/docs/tutorial-extras/filebird": "tutorialSidebar",
+    "/docs/tutorial-extras/media-aanpassen": "tutorialSidebar",
+    "/docs/tutorial-extras/media-tags": "tutorialSidebar",
+    "/docs/tutorial-extras/media-uploaden": "tutorialSidebar"
   }
 }

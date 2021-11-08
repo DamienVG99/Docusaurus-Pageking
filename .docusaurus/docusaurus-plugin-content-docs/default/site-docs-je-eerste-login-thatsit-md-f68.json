@@ -1,0 +1,26 @@
+{
+  "unversionedId": "je-eerste-login/thatsit",
+  "id": "je-eerste-login/thatsit",
+  "isDocsHomePage": false,
+  "title": "That's it! 🥳",
+  "description": "We wensen je veel plezier met je nieuwe website! Heb je vragen? Je kan altijd contact met ons opnemen. Tussen 0800 via telefoonnummer 076 700 2582 of 24 uur per dag via support@pageking.nl!",
+  "source": "@site/docs/je-eerste-login/thatsit.md",
+  "sourceDirName": "je-eerste-login",
+  "slug": "/je-eerste-login/thatsit",
+  "permalink": "/docs/je-eerste-login/thatsit",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/je-eerste-login/thatsit.md",
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pagina's 📃",
+    "permalink": "/docs/je-eerste-login/paginas"
+  },
+  "next": {
+    "title": "Mediabibliotheek 📸",
+    "permalink": "/docs/tutorial-extras/media-uploaden"
+  }
+}
