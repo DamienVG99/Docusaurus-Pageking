@@ -73,10 +73,53 @@
           }
         ],
         "collapsed": true
+      },
+      {
+        "type": "category",
+        "label": "Formulieren",
+        "items": [
+          {
+            "type": "link",
+            "label": "Aanmaken en bewerken",
+            "href": "/docs/formulieren/aanmaken"
+          },
+          {
+            "type": "link",
+            "label": "Meldingen",
+            "href": "/docs/formulieren/meldingen"
+          },
+          {
+            "type": "link",
+            "label": "Bevestigingen",
+            "href": "/docs/formulieren/bevestigingen"
+          },
+          {
+            "type": "link",
+            "label": "Beveiliging",
+            "href": "/docs/formulieren/beveiligingen"
+          },
+          {
+            "type": "link",
+            "label": "Inzendingen",
+            "href": "/docs/formulieren/inzendingen"
+          },
+          {
+            "type": "link",
+            "label": "Formulieren gebruiken",
+            "href": "/docs/formulieren/gebruiken"
+          }
+        ],
+        "collapsed": true
       }
     ]
   },
   "permalinkToSidebar": {
+    "/docs/formulieren/aanmaken": "tutorialSidebar",
+    "/docs/formulieren/beveiligingen": "tutorialSidebar",
+    "/docs/formulieren/bevestigingen": "tutorialSidebar",
+    "/docs/formulieren/gebruiken": "tutorialSidebar",
+    "/docs/formulieren/inzendingen": "tutorialSidebar",
+    "/docs/formulieren/meldingen": "tutorialSidebar",
     "/docs/intro": "tutorialSidebar",
     "/docs/je-eerste-login/formulieren": "tutorialSidebar",
     "/docs/je-eerste-login/gefeliciteerd": "tutorialSidebar",

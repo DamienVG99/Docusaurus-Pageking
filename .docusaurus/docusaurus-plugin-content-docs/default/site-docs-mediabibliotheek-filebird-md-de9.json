@@ -18,5 +18,9 @@
   "previous": {
     "title": "Afbeeldingen bewerken 🛠️",
     "permalink": "/docs/mediabibliotheek/media-aanpassen"
+  },
+  "next": {
+    "title": "Aanmaken en bewerken",
+    "permalink": "/docs/formulieren/aanmaken"
   }
 }

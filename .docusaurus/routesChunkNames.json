@@ -15,9 +15,33 @@
     "component": "f8551aab",
     "config": "5e9f5e1a"
   },
-  "/docs-705": {
+  "/docs-3ad": {
     "component": "1be78505",
     "versionMetadata": "935f2afb"
+  },
+  "/docs/formulieren/aanmaken-597": {
+    "component": "17896441",
+    "content": "fa69ab9d"
+  },
+  "/docs/formulieren/beveiligingen-844": {
+    "component": "17896441",
+    "content": "ac612dab"
+  },
+  "/docs/formulieren/bevestigingen-631": {
+    "component": "17896441",
+    "content": "8edd5b62"
+  },
+  "/docs/formulieren/gebruiken-1a3": {
+    "component": "17896441",
+    "content": "d9b30af5"
+  },
+  "/docs/formulieren/inzendingen-879": {
+    "component": "17896441",
+    "content": "7c8cbc3e"
+  },
+  "/docs/formulieren/meldingen-7f8": {
+    "component": "17896441",
+    "content": "5909df63"
   },
   "/docs/intro-e84": {
     "component": "17896441",

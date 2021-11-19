@@ -8,7 +8,7 @@ In dit artikel leiden we je door het proces van het aanmaken van een Formulier v
 
 :::warning Let op! Update
 
-In deze tutorial maken we gebruik van de laatste versie zoals deze op dit moment beschikbaar is. Heb je een oudere versie? Laat het ons dan weten. We zorgen er dan voor dat deze zo spoedig mogelijk geupdate wordt!
+In deze tutorial maken we gebruik van de laatste versie zoals deze op dit moment beschikbaar is. Heb je een oudere versie? Laat het ons dan weten. We zorgen er dan voor dat deze zo spoedig mogelijk geupdate wordt mits je een technisch onderhoudscontract hebt!
 
 :::
 

@@ -24,9 +24,39 @@ export default [
 },
 {
   path: '/docs',
-  component: ComponentCreator('/docs','705'),
+  component: ComponentCreator('/docs','3ad'),
   
   routes: [
+{
+  path: '/docs/formulieren/aanmaken',
+  component: ComponentCreator('/docs/formulieren/aanmaken','597'),
+  exact: true,
+},
+{
+  path: '/docs/formulieren/beveiligingen',
+  component: ComponentCreator('/docs/formulieren/beveiligingen','844'),
+  exact: true,
+},
+{
+  path: '/docs/formulieren/bevestigingen',
+  component: ComponentCreator('/docs/formulieren/bevestigingen','631'),
+  exact: true,
+},
+{
+  path: '/docs/formulieren/gebruiken',
+  component: ComponentCreator('/docs/formulieren/gebruiken','1a3'),
+  exact: true,
+},
+{
+  path: '/docs/formulieren/inzendingen',
+  component: ComponentCreator('/docs/formulieren/inzendingen','879'),
+  exact: true,
+},
+{
+  path: '/docs/formulieren/meldingen',
+  component: ComponentCreator('/docs/formulieren/meldingen','7f8'),
+  exact: true,
+},
 {
   path: '/docs/intro',
   component: ComponentCreator('/docs/intro','e84'),

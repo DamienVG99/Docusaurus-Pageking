@@ -1,0 +1,26 @@
+{
+  "unversionedId": "formulieren/aanmaken",
+  "id": "formulieren/aanmaken",
+  "isDocsHomePage": false,
+  "title": "Aanmaken en bewerken",
+  "description": "In dit artikel leiden we je door het proces van het aanmaken van een Formulier via Gravity Forms. Dit is de standaard plug-in die wij voor je klaarzetten.",
+  "source": "@site/docs/formulieren/aanmaken.md",
+  "sourceDirName": "formulieren",
+  "slug": "/formulieren/aanmaken",
+  "permalink": "/docs/formulieren/aanmaken",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/formulieren/aanmaken.md",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FileBird 🐦",
+    "permalink": "/docs/mediabibliotheek/filebird"
+  },
+  "next": {
+    "title": "Meldingen",
+    "permalink": "/docs/formulieren/meldingen"
+  }
+}

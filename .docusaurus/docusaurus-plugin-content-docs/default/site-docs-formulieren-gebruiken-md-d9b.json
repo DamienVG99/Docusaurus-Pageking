@@ -1,0 +1,22 @@
+{
+  "unversionedId": "formulieren/gebruiken",
+  "id": "formulieren/gebruiken",
+  "isDocsHomePage": false,
+  "title": "Formulieren gebruiken",
+  "description": "Dan het laatste puntje over formulieren: hoe gebruik je ze op je website?",
+  "source": "@site/docs/formulieren/gebruiken.md",
+  "sourceDirName": "formulieren",
+  "slug": "/formulieren/gebruiken",
+  "permalink": "/docs/formulieren/gebruiken",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/formulieren/gebruiken.md",
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Inzendingen",
+    "permalink": "/docs/formulieren/inzendingen"
+  }
+}

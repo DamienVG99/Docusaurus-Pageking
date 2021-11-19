@@ -11,6 +11,36 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "formulieren/aanmaken",
+              "path": "/docs/formulieren/aanmaken",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "formulieren/beveiligingen",
+              "path": "/docs/formulieren/beveiligingen",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "formulieren/bevestigingen",
+              "path": "/docs/formulieren/bevestigingen",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "formulieren/gebruiken",
+              "path": "/docs/formulieren/gebruiken",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "formulieren/inzendingen",
+              "path": "/docs/formulieren/inzendingen",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "formulieren/meldingen",
+              "path": "/docs/formulieren/meldingen",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/docs/intro",
               "sidebar": "tutorialSidebar"
