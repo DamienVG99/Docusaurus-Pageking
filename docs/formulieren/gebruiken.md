@@ -14,7 +14,7 @@ Wij raden niet aan zomaar alle formulieren overal neer te zetten. Dit raden we a
 
 Formulieren zijn erg simpel te gebruiken in WordPress. Dit werkt op basis van een zogenoemde "shortcode". Dit is een kort stukje tekst, omringd door blokhaken [] welke je daarna kunt gebruiken op je website.
 
-De meest standaard shortcode ziet er als volgt uit: 
+De meest standaard shortcode voor Gravity Forms ziet er als volgt uit: 
 ```
 
 [gravityform id="1"]
