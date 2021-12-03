@@ -5,6 +5,10 @@
  */
 
 /* You can override the default Infima variables here. */
+@font-face {
+  font-family: "Circular-Regular";
+  src: url('../../static/fonts/CircularStd-Book.ttf');
+}
 :root {
   --ifm-color-primary: #25c2a0 !important;
   --ifm-color-primary-dark: rgb(33, 175, 144);
@@ -25,4 +29,18 @@
 
 html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
+}
+
+
+@font-face {
+  font-family: "Circular-Bold";
+  src: url('../../static/fonts/CircularStd-Bold.ttf');
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-family: "Circular-Bold";
+}
+
+p, a{
+  font-family: "Circular-Regular";
 }

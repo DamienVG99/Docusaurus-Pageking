@@ -21,3 +21,20 @@
   align-items: center;
   justify-content: center;
 }
+@font-face {
+  font-family: "Circular-Regular";
+  src: url('../../static/fonts/CircularStd-Book.ttf');
+}
+
+@font-face {
+  font-family: "Circular-Bold";
+  src: url('../../static/fonts/CircularStd-Bold.ttf');
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-family: "Circular-Bold";
+}
+
+p, a{
+  font-family: "Circular-Regular";
+}
