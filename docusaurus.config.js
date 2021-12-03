@@ -13,7 +13,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   favicon: 'img/favicon.ico',
   organizationName: 'damienvg99', // Usually your GitHub org/user name.
   projectName: 'Docusaurus-Pageking', // Usually your repo name.
-
+  scripts: [
+    'https://pageking.nl/leadinfo.js',
+  ],
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -32,6 +34,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      googleAnalytics: {
+        trackingID: 'G-8BJV0PJNDX',
+        // Optional fields.
+        anonymizeIP: true, // Should IPs be anonymized?
+      },
       navbar: {
         title: 'Pageking Wiki',
         logo: {

@@ -8,6 +8,9 @@ export default {
   "favicon": "img/favicon.ico",
   "organizationName": "damienvg99",
   "projectName": "Docusaurus-Pageking",
+  "scripts": [
+    "https://pageking.nl/leadinfo.js"
+  ],
   "presets": [
     [
       "@docusaurus/preset-classic",
@@ -21,6 +24,10 @@ export default {
     ]
   ],
   "themeConfig": {
+    "googleAnalytics": {
+      "trackingID": "G-8BJV0PJNDX",
+      "anonymizeIP": true
+    },
     "navbar": {
       "title": "Pageking Wiki",
       "logo": {
@@ -32,7 +39,7 @@ export default {
           "type": "doc",
           "docId": "intro",
           "position": "left",
-          "label": "Tutorial",
+          "label": "Wiki",
           "activeSidebarClassName": "navbar__link--active"
         }
       ],
@@ -45,7 +52,7 @@ export default {
           "title": "Docs",
           "items": [
             {
-              "label": "Tutorial",
+              "label": "Wiki",
               "to": "/docs/intro"
             }
           ]
