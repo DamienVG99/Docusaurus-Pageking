@@ -1,0 +1,23 @@
+{
+  "unversionedId": "woocommerce/variaties",
+  "id": "woocommerce/variaties",
+  "isDocsHomePage": false,
+  "title": "variaties",
+  "description": "",
+  "source": "@site/docs/woocommerce/variaties.md",
+  "sourceDirName": "woocommerce",
+  "slug": "/woocommerce/variaties",
+  "permalink": "/docs/woocommerce/variaties",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/woocommerce/variaties.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pdf",
+    "permalink": "/docs/woocommerce/pdf"
+  },
+  "next": {
+    "title": "item",
+    "permalink": "/docs/seo/item"
+  }
+}

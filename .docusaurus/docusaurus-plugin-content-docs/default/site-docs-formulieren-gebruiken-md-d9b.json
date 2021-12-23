@@ -18,5 +18,9 @@
   "previous": {
     "title": "Inzendingen",
     "permalink": "/docs/formulieren/inzendingen"
+  },
+  "next": {
+    "title": "conditioneel",
+    "permalink": "/docs/formulieren/conditioneel"
   }
 }

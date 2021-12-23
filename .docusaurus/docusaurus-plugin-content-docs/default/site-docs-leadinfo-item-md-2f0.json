@@ -1,0 +1,26 @@
+{
+  "unversionedId": "leadinfo/item",
+  "id": "leadinfo/item",
+  "isDocsHomePage": false,
+  "title": "item",
+  "description": "",
+  "source": "@site/docs/leadinfo/item.md",
+  "sourceDirName": "leadinfo",
+  "slug": "/leadinfo/item",
+  "permalink": "/docs/leadinfo/item",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/leadinfo/item.md",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "item",
+    "permalink": "/docs/tools/item"
+  },
+  "next": {
+    "title": "item",
+    "permalink": "/docs/livegang/item"
+  }
+}

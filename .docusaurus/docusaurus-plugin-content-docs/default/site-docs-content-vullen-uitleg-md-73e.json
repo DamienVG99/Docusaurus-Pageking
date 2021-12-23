@@ -1,0 +1,23 @@
+{
+  "unversionedId": "content vullen/uitleg",
+  "id": "content vullen/uitleg",
+  "isDocsHomePage": false,
+  "title": "uitleg",
+  "description": "",
+  "source": "@site/docs/content vullen/uitleg.md",
+  "sourceDirName": "content vullen",
+  "slug": "/content vullen/uitleg",
+  "permalink": "/docs/content vullen/uitleg",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/content vullen/uitleg.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "posttypes",
+    "permalink": "/docs/content vullen/posttypes"
+  },
+  "next": {
+    "title": "voorbeeld",
+    "permalink": "/docs/content vullen/voorbeeld"
+  }
+}

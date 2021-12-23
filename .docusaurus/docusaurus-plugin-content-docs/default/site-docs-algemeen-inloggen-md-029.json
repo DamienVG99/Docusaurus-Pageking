@@ -1,0 +1,26 @@
+{
+  "unversionedId": "algemeen/inloggen",
+  "id": "algemeen/inloggen",
+  "isDocsHomePage": false,
+  "title": "Inloggen 🔐",
+  "description": "Het prille begin.",
+  "source": "@site/docs/algemeen/inloggen.md",
+  "sourceDirName": "algemeen",
+  "slug": "/algemeen/inloggen",
+  "permalink": "/docs/algemeen/inloggen",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/algemeen/inloggen.md",
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Gefeliciteerd!",
+    "permalink": "/docs/algemeen/gefeliciteerd"
+  },
+  "next": {
+    "title": "Reactiesnelheid",
+    "permalink": "/docs/algemeen/sla"
+  }
+}

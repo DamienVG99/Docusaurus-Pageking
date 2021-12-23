@@ -1,0 +1,26 @@
+{
+  "unversionedId": "mediabibliotheek/groot",
+  "id": "mediabibliotheek/groot",
+  "isDocsHomePage": false,
+  "title": "Comprimeren",
+  "description": "Wij raden aan om niet te grote bestanden te uploaden. Dit met de rede dat het sitevertragend werkt.",
+  "source": "@site/docs/mediabibliotheek/groot.md",
+  "sourceDirName": "mediabibliotheek",
+  "slug": "/mediabibliotheek/groot",
+  "permalink": "/docs/mediabibliotheek/groot",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/mediabibliotheek/groot.md",
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FileBird 🐦",
+    "permalink": "/docs/mediabibliotheek/filebird"
+  },
+  "next": {
+    "title": "svg",
+    "permalink": "/docs/mediabibliotheek/svg"
+  }
+}

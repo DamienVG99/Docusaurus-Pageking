@@ -1,0 +1,23 @@
+{
+  "unversionedId": "content vullen/dupliceren",
+  "id": "content vullen/dupliceren",
+  "isDocsHomePage": false,
+  "title": "dupliceren",
+  "description": "",
+  "source": "@site/docs/content vullen/dupliceren.md",
+  "sourceDirName": "content vullen",
+  "slug": "/content vullen/dupliceren",
+  "permalink": "/docs/content vullen/dupliceren",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/content vullen/dupliceren.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "datum",
+    "permalink": "/docs/content vullen/datum"
+  },
+  "next": {
+    "title": "pagina_templates",
+    "permalink": "/docs/content vullen/pagina_templates"
+  }
+}

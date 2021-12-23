@@ -1,0 +1,23 @@
+{
+  "unversionedId": "content vullen/voorbeeld",
+  "id": "content vullen/voorbeeld",
+  "isDocsHomePage": false,
+  "title": "voorbeeld",
+  "description": "",
+  "source": "@site/docs/content vullen/voorbeeld.md",
+  "sourceDirName": "content vullen",
+  "slug": "/content vullen/voorbeeld",
+  "permalink": "/docs/content vullen/voorbeeld",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/content vullen/voorbeeld.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "uitleg",
+    "permalink": "/docs/content vullen/uitleg"
+  },
+  "next": {
+    "title": "wysiwyg",
+    "permalink": "/docs/content vullen/wysiwyg"
+  }
+}

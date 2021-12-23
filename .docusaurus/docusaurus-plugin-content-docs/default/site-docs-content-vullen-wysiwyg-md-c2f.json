@@ -1,0 +1,23 @@
+{
+  "unversionedId": "content vullen/wysiwyg",
+  "id": "content vullen/wysiwyg",
+  "isDocsHomePage": false,
+  "title": "wysiwyg",
+  "description": "",
+  "source": "@site/docs/content vullen/wysiwyg.md",
+  "sourceDirName": "content vullen",
+  "slug": "/content vullen/wysiwyg",
+  "permalink": "/docs/content vullen/wysiwyg",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/content vullen/wysiwyg.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "voorbeeld",
+    "permalink": "/docs/content vullen/voorbeeld"
+  },
+  "next": {
+    "title": "Aanmaken en bewerken",
+    "permalink": "/docs/formulieren/aanmaken"
+  }
+}

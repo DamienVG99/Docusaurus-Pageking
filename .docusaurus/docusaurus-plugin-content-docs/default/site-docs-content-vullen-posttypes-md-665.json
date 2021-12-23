@@ -1,0 +1,23 @@
+{
+  "unversionedId": "content vullen/posttypes",
+  "id": "content vullen/posttypes",
+  "isDocsHomePage": false,
+  "title": "posttypes",
+  "description": "",
+  "source": "@site/docs/content vullen/posttypes.md",
+  "sourceDirName": "content vullen",
+  "slug": "/content vullen/posttypes",
+  "permalink": "/docs/content vullen/posttypes",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/content vullen/posttypes.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "permalinks",
+    "permalink": "/docs/content vullen/permalinks"
+  },
+  "next": {
+    "title": "uitleg",
+    "permalink": "/docs/content vullen/uitleg"
+  }
+}

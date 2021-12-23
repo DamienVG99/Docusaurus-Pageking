@@ -1,0 +1,23 @@
+{
+  "unversionedId": "content vullen/pagina_templates",
+  "id": "content vullen/pagina_templates",
+  "isDocsHomePage": false,
+  "title": "pagina_templates",
+  "description": "",
+  "source": "@site/docs/content vullen/pagina_templates.md",
+  "sourceDirName": "content vullen",
+  "slug": "/content vullen/pagina_templates",
+  "permalink": "/docs/content vullen/pagina_templates",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/content vullen/pagina_templates.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dupliceren",
+    "permalink": "/docs/content vullen/dupliceren"
+  },
+  "next": {
+    "title": "pdfinbutton",
+    "permalink": "/docs/content vullen/pdfinbutton"
+  }
+}

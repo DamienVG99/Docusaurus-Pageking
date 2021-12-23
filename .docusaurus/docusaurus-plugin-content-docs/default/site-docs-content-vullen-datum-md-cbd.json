@@ -1,0 +1,23 @@
+{
+  "unversionedId": "content vullen/datum",
+  "id": "content vullen/datum",
+  "isDocsHomePage": false,
+  "title": "datum",
+  "description": "",
+  "source": "@site/docs/content vullen/datum.md",
+  "sourceDirName": "content vullen",
+  "slug": "/content vullen/datum",
+  "permalink": "/docs/content vullen/datum",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/content vullen/datum.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "concept",
+    "permalink": "/docs/content vullen/concept"
+  },
+  "next": {
+    "title": "dupliceren",
+    "permalink": "/docs/content vullen/dupliceren"
+  }
+}

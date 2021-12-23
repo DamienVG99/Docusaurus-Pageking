@@ -24,9 +24,99 @@ export default [
 },
 {
   path: '/docs',
-  component: ComponentCreator('/docs','3ad'),
+  component: ComponentCreator('/docs','569'),
   
   routes: [
+{
+  path: '/docs/algemeen/gefeliciteerd',
+  component: ComponentCreator('/docs/algemeen/gefeliciteerd','0c5'),
+  exact: true,
+},
+{
+  path: '/docs/algemeen/inloggen',
+  component: ComponentCreator('/docs/algemeen/inloggen','25e'),
+  exact: true,
+},
+{
+  path: '/docs/algemeen/sla',
+  component: ComponentCreator('/docs/algemeen/sla','5ac'),
+  exact: true,
+},
+{
+  path: '/docs/algemeen/spoed',
+  component: ComponentCreator('/docs/algemeen/spoed','a33'),
+  exact: true,
+},
+{
+  path: '/docs/bureau/item',
+  component: ComponentCreator('/docs/bureau/item','99f'),
+  exact: true,
+},
+{
+  path: '/docs/content vullen/afbeelding',
+  component: ComponentCreator('/docs/content vullen/afbeelding','954'),
+  exact: true,
+},
+{
+  path: '/docs/content vullen/caching',
+  component: ComponentCreator('/docs/content vullen/caching','3c7'),
+  exact: true,
+},
+{
+  path: '/docs/content vullen/concept',
+  component: ComponentCreator('/docs/content vullen/concept','ece'),
+  exact: true,
+},
+{
+  path: '/docs/content vullen/datum',
+  component: ComponentCreator('/docs/content vullen/datum','3a3'),
+  exact: true,
+},
+{
+  path: '/docs/content vullen/dupliceren',
+  component: ComponentCreator('/docs/content vullen/dupliceren','f9b'),
+  exact: true,
+},
+{
+  path: '/docs/content vullen/item',
+  component: ComponentCreator('/docs/content vullen/item','d30'),
+  exact: true,
+},
+{
+  path: '/docs/content vullen/pagina_templates',
+  component: ComponentCreator('/docs/content vullen/pagina_templates','ebd'),
+  exact: true,
+},
+{
+  path: '/docs/content vullen/pdfinbutton',
+  component: ComponentCreator('/docs/content vullen/pdfinbutton','91b'),
+  exact: true,
+},
+{
+  path: '/docs/content vullen/permalinks',
+  component: ComponentCreator('/docs/content vullen/permalinks','c53'),
+  exact: true,
+},
+{
+  path: '/docs/content vullen/posttypes',
+  component: ComponentCreator('/docs/content vullen/posttypes','fe7'),
+  exact: true,
+},
+{
+  path: '/docs/content vullen/uitleg',
+  component: ComponentCreator('/docs/content vullen/uitleg','c9e'),
+  exact: true,
+},
+{
+  path: '/docs/content vullen/voorbeeld',
+  component: ComponentCreator('/docs/content vullen/voorbeeld','3c7'),
+  exact: true,
+},
+{
+  path: '/docs/content vullen/wysiwyg',
+  component: ComponentCreator('/docs/content vullen/wysiwyg','4db'),
+  exact: true,
+},
 {
   path: '/docs/formulieren/aanmaken',
   component: ComponentCreator('/docs/formulieren/aanmaken','597'),
@@ -43,6 +133,11 @@ export default [
   exact: true,
 },
 {
+  path: '/docs/formulieren/conditioneel',
+  component: ComponentCreator('/docs/formulieren/conditioneel','fcf'),
+  exact: true,
+},
+{
   path: '/docs/formulieren/gebruiken',
   component: ComponentCreator('/docs/formulieren/gebruiken','1a3'),
   exact: true,
@@ -50,6 +145,16 @@ export default [
 {
   path: '/docs/formulieren/inzendingen',
   component: ComponentCreator('/docs/formulieren/inzendingen','879'),
+  exact: true,
+},
+{
+  path: '/docs/formulieren/mailchimp',
+  component: ComponentCreator('/docs/formulieren/mailchimp','561'),
+  exact: true,
+},
+{
+  path: '/docs/formulieren/mails',
+  component: ComponentCreator('/docs/formulieren/mails','84a'),
   exact: true,
 },
 {
@@ -63,38 +168,23 @@ export default [
   exact: true,
 },
 {
-  path: '/docs/je-eerste-login/formulieren',
-  component: ComponentCreator('/docs/je-eerste-login/formulieren','ac4'),
+  path: '/docs/leadinfo/item',
+  component: ComponentCreator('/docs/leadinfo/item','230'),
   exact: true,
 },
 {
-  path: '/docs/je-eerste-login/gefeliciteerd',
-  component: ComponentCreator('/docs/je-eerste-login/gefeliciteerd','bd0'),
-  exact: true,
-},
-{
-  path: '/docs/je-eerste-login/inloggen',
-  component: ComponentCreator('/docs/je-eerste-login/inloggen','d39'),
-  exact: true,
-},
-{
-  path: '/docs/je-eerste-login/mediabibliotheek',
-  component: ComponentCreator('/docs/je-eerste-login/mediabibliotheek','869'),
-  exact: true,
-},
-{
-  path: '/docs/je-eerste-login/paginas',
-  component: ComponentCreator('/docs/je-eerste-login/paginas','a81'),
-  exact: true,
-},
-{
-  path: '/docs/je-eerste-login/thatsit',
-  component: ComponentCreator('/docs/je-eerste-login/thatsit','c70'),
+  path: '/docs/livegang/item',
+  component: ComponentCreator('/docs/livegang/item','d61'),
   exact: true,
 },
 {
   path: '/docs/mediabibliotheek/filebird',
   component: ComponentCreator('/docs/mediabibliotheek/filebird','0dd'),
+  exact: true,
+},
+{
+  path: '/docs/mediabibliotheek/groot',
+  component: ComponentCreator('/docs/mediabibliotheek/groot','324'),
   exact: true,
 },
 {
@@ -110,6 +200,71 @@ export default [
 {
   path: '/docs/mediabibliotheek/media-uploaden',
   component: ComponentCreator('/docs/mediabibliotheek/media-uploaden','b72'),
+  exact: true,
+},
+{
+  path: '/docs/mediabibliotheek/svg',
+  component: ComponentCreator('/docs/mediabibliotheek/svg','726'),
+  exact: true,
+},
+{
+  path: '/docs/mediabibliotheek/vervangen',
+  component: ComponentCreator('/docs/mediabibliotheek/vervangen','181'),
+  exact: true,
+},
+{
+  path: '/docs/seo/item',
+  component: ComponentCreator('/docs/seo/item','1ba'),
+  exact: true,
+},
+{
+  path: '/docs/thatsit',
+  component: ComponentCreator('/docs/thatsit','ec6'),
+  exact: true,
+},
+{
+  path: '/docs/tools/item',
+  component: ComponentCreator('/docs/tools/item','265'),
+  exact: true,
+},
+{
+  path: '/docs/woocommerce/aanmaken',
+  component: ComponentCreator('/docs/woocommerce/aanmaken','b09'),
+  exact: true,
+},
+{
+  path: '/docs/woocommerce/item',
+  component: ComponentCreator('/docs/woocommerce/item','1ee'),
+  exact: true,
+},
+{
+  path: '/docs/woocommerce/pdf',
+  component: ComponentCreator('/docs/woocommerce/pdf','c07'),
+  exact: true,
+},
+{
+  path: '/docs/woocommerce/settings/belasting',
+  component: ComponentCreator('/docs/woocommerce/settings/belasting','41e'),
+  exact: true,
+},
+{
+  path: '/docs/woocommerce/settings/mailinstellingen',
+  component: ComponentCreator('/docs/woocommerce/settings/mailinstellingen','531'),
+  exact: true,
+},
+{
+  path: '/docs/woocommerce/settings/mailtemplates',
+  component: ComponentCreator('/docs/woocommerce/settings/mailtemplates','338'),
+  exact: true,
+},
+{
+  path: '/docs/woocommerce/settings/verzendkosten',
+  component: ComponentCreator('/docs/woocommerce/settings/verzendkosten','3f5'),
+  exact: true,
+},
+{
+  path: '/docs/woocommerce/variaties',
+  component: ComponentCreator('/docs/woocommerce/variaties','5b5'),
   exact: true,
 },
 ]

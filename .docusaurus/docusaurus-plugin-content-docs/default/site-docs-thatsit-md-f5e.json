@@ -1,0 +1,22 @@
+{
+  "unversionedId": "thatsit",
+  "id": "thatsit",
+  "isDocsHomePage": false,
+  "title": "That's it! 🥳",
+  "description": "We wensen je veel plezier met je nieuwe website! Heb je vragen? Je kan altijd contact met ons opnemen. Tussen 0800 via telefoonnummer 076 700 2582 of 24 uur per dag via support@pageking.nl!",
+  "source": "@site/docs/thatsit.md",
+  "sourceDirName": ".",
+  "slug": "/thatsit",
+  "permalink": "/docs/thatsit",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/thatsit.md",
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_position": 12
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "item",
+    "permalink": "/docs/bureau/item"
+  }
+}

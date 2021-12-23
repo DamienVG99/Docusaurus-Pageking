@@ -1,0 +1,23 @@
+{
+  "unversionedId": "woocommerce/pdf",
+  "id": "woocommerce/pdf",
+  "isDocsHomePage": false,
+  "title": "pdf",
+  "description": "",
+  "source": "@site/docs/woocommerce/pdf.md",
+  "sourceDirName": "woocommerce",
+  "slug": "/woocommerce/pdf",
+  "permalink": "/docs/woocommerce/pdf",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/woocommerce/pdf.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "aanmaken",
+    "permalink": "/docs/woocommerce/aanmaken"
+  },
+  "next": {
+    "title": "variaties",
+    "permalink": "/docs/woocommerce/variaties"
+  }
+}

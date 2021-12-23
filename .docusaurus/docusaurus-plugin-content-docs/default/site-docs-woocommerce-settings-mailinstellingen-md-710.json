@@ -1,0 +1,23 @@
+{
+  "unversionedId": "woocommerce/settings/mailinstellingen",
+  "id": "woocommerce/settings/mailinstellingen",
+  "isDocsHomePage": false,
+  "title": "mailinstellingen",
+  "description": "",
+  "source": "@site/docs/woocommerce/settings/mailinstellingen.md",
+  "sourceDirName": "woocommerce/settings",
+  "slug": "/woocommerce/settings/mailinstellingen",
+  "permalink": "/docs/woocommerce/settings/mailinstellingen",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/woocommerce/settings/mailinstellingen.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "belasting",
+    "permalink": "/docs/woocommerce/settings/belasting"
+  },
+  "next": {
+    "title": "mailtemplates",
+    "permalink": "/docs/woocommerce/settings/mailtemplates"
+  }
+}

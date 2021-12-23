@@ -1,0 +1,26 @@
+{
+  "unversionedId": "content vullen/item",
+  "id": "content vullen/item",
+  "isDocsHomePage": false,
+  "title": "item",
+  "description": "",
+  "source": "@site/docs/content vullen/item.md",
+  "sourceDirName": "content vullen",
+  "slug": "/content vullen/item",
+  "permalink": "/docs/content vullen/item",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/content vullen/item.md",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "vervangen",
+    "permalink": "/docs/mediabibliotheek/vervangen"
+  },
+  "next": {
+    "title": "afbeelding",
+    "permalink": "/docs/content vullen/afbeelding"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "woocommerce/aanmaken",
+  "id": "woocommerce/aanmaken",
+  "isDocsHomePage": false,
+  "title": "aanmaken",
+  "description": "",
+  "source": "@site/docs/woocommerce/aanmaken.md",
+  "sourceDirName": "woocommerce",
+  "slug": "/woocommerce/aanmaken",
+  "permalink": "/docs/woocommerce/aanmaken",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/woocommerce/aanmaken.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "verzendkosten",
+    "permalink": "/docs/woocommerce/settings/verzendkosten"
+  },
+  "next": {
+    "title": "pdf",
+    "permalink": "/docs/woocommerce/pdf"
+  }
+}

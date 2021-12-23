@@ -1,0 +1,23 @@
+{
+  "unversionedId": "content vullen/pdfinbutton",
+  "id": "content vullen/pdfinbutton",
+  "isDocsHomePage": false,
+  "title": "pdfinbutton",
+  "description": "",
+  "source": "@site/docs/content vullen/pdfinbutton.md",
+  "sourceDirName": "content vullen",
+  "slug": "/content vullen/pdfinbutton",
+  "permalink": "/docs/content vullen/pdfinbutton",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/content vullen/pdfinbutton.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pagina_templates",
+    "permalink": "/docs/content vullen/pagina_templates"
+  },
+  "next": {
+    "title": "permalinks",
+    "permalink": "/docs/content vullen/permalinks"
+  }
+}

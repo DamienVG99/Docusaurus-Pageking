@@ -1,0 +1,23 @@
+{
+  "unversionedId": "woocommerce/settings/belasting",
+  "id": "woocommerce/settings/belasting",
+  "isDocsHomePage": false,
+  "title": "belasting",
+  "description": "",
+  "source": "@site/docs/woocommerce/settings/belasting.md",
+  "sourceDirName": "woocommerce/settings",
+  "slug": "/woocommerce/settings/belasting",
+  "permalink": "/docs/woocommerce/settings/belasting",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/woocommerce/settings/belasting.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "item",
+    "permalink": "/docs/woocommerce/item"
+  },
+  "next": {
+    "title": "mailinstellingen",
+    "permalink": "/docs/woocommerce/settings/mailinstellingen"
+  }
+}

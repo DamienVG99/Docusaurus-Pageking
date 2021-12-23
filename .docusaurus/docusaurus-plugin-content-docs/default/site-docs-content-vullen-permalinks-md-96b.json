@@ -1,0 +1,23 @@
+{
+  "unversionedId": "content vullen/permalinks",
+  "id": "content vullen/permalinks",
+  "isDocsHomePage": false,
+  "title": "permalinks",
+  "description": "",
+  "source": "@site/docs/content vullen/permalinks.md",
+  "sourceDirName": "content vullen",
+  "slug": "/content vullen/permalinks",
+  "permalink": "/docs/content vullen/permalinks",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/content vullen/permalinks.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pdfinbutton",
+    "permalink": "/docs/content vullen/pdfinbutton"
+  },
+  "next": {
+    "title": "posttypes",
+    "permalink": "/docs/content vullen/posttypes"
+  }
+}

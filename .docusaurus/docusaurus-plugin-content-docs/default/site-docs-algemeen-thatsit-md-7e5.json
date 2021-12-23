@@ -1,0 +1,26 @@
+{
+  "unversionedId": "algemeen/thatsit",
+  "id": "algemeen/thatsit",
+  "isDocsHomePage": false,
+  "title": "That's it! 🥳",
+  "description": "We wensen je veel plezier met je nieuwe website! Heb je vragen? Je kan altijd contact met ons opnemen. Tussen 0800 via telefoonnummer 076 700 2582 of 24 uur per dag via support@pageking.nl!",
+  "source": "@site/docs/algemeen/thatsit.md",
+  "sourceDirName": "algemeen",
+  "slug": "/algemeen/thatsit",
+  "permalink": "/docs/algemeen/thatsit",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/algemeen/thatsit.md",
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pagina's 📃",
+    "permalink": "/docs/algemeen/paginas"
+  },
+  "next": {
+    "title": "Mediabibliotheek 📸",
+    "permalink": "/docs/mediabibliotheek/media-uploaden"
+  }
+}

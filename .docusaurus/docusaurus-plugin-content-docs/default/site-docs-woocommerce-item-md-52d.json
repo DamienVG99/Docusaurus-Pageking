@@ -1,0 +1,26 @@
+{
+  "unversionedId": "woocommerce/item",
+  "id": "woocommerce/item",
+  "isDocsHomePage": false,
+  "title": "item",
+  "description": "",
+  "source": "@site/docs/woocommerce/item.md",
+  "sourceDirName": "woocommerce",
+  "slug": "/woocommerce/item",
+  "permalink": "/docs/woocommerce/item",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/woocommerce/item.md",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mails",
+    "permalink": "/docs/formulieren/mails"
+  },
+  "next": {
+    "title": "belasting",
+    "permalink": "/docs/woocommerce/settings/belasting"
+  }
+}

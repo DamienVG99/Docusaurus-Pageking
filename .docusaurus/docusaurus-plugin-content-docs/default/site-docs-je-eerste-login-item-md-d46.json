@@ -1,0 +1,26 @@
+{
+  "unversionedId": "je-eerste-login/item",
+  "id": "je-eerste-login/item",
+  "isDocsHomePage": false,
+  "title": "item",
+  "description": "",
+  "source": "@site/docs/je-eerste-login/item.md",
+  "sourceDirName": "je-eerste-login",
+  "slug": "/je-eerste-login/item",
+  "permalink": "/docs/je-eerste-login/item",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/je-eerste-login/item.md",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Spoed",
+    "permalink": "/docs/algemeen/spoed"
+  },
+  "next": {
+    "title": "Mediabibliotheek 📸",
+    "permalink": "/docs/mediabibliotheek/media-uploaden"
+  }
+}

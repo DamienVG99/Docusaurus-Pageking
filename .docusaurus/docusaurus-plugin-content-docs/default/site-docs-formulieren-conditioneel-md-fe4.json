@@ -1,0 +1,23 @@
+{
+  "unversionedId": "formulieren/conditioneel",
+  "id": "formulieren/conditioneel",
+  "isDocsHomePage": false,
+  "title": "conditioneel",
+  "description": "",
+  "source": "@site/docs/formulieren/conditioneel.md",
+  "sourceDirName": "formulieren",
+  "slug": "/formulieren/conditioneel",
+  "permalink": "/docs/formulieren/conditioneel",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/formulieren/conditioneel.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Formulieren gebruiken",
+    "permalink": "/docs/formulieren/gebruiken"
+  },
+  "next": {
+    "title": "mailchimp",
+    "permalink": "/docs/formulieren/mailchimp"
+  }
+}

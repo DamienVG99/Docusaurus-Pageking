@@ -1,0 +1,26 @@
+{
+  "unversionedId": "seo/item",
+  "id": "seo/item",
+  "isDocsHomePage": false,
+  "title": "item",
+  "description": "",
+  "source": "@site/docs/seo/item.md",
+  "sourceDirName": "seo",
+  "slug": "/seo/item",
+  "permalink": "/docs/seo/item",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/seo/item.md",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "variaties",
+    "permalink": "/docs/woocommerce/variaties"
+  },
+  "next": {
+    "title": "item",
+    "permalink": "/docs/tools/item"
+  }
+}

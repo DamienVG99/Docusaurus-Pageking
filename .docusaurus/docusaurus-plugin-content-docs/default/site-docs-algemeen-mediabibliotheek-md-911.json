@@ -1,0 +1,26 @@
+{
+  "unversionedId": "algemeen/mediabibliotheek",
+  "id": "algemeen/mediabibliotheek",
+  "isDocsHomePage": false,
+  "title": "Mediabibliotheek 📸",
+  "description": "De verzamelplek voor al je fotos, videos en bestanden.",
+  "source": "@site/docs/algemeen/mediabibliotheek.md",
+  "sourceDirName": "algemeen",
+  "slug": "/algemeen/mediabibliotheek",
+  "permalink": "/docs/algemeen/mediabibliotheek",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/algemeen/mediabibliotheek.md",
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Inloggen 🔐",
+    "permalink": "/docs/algemeen/inloggen"
+  },
+  "next": {
+    "title": "Formulieren 📑",
+    "permalink": "/docs/algemeen/formulieren"
+  }
+}

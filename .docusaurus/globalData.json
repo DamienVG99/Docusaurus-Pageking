@@ -11,6 +11,96 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "algemeen/gefeliciteerd",
+              "path": "/docs/algemeen/gefeliciteerd",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "algemeen/inloggen",
+              "path": "/docs/algemeen/inloggen",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "algemeen/sla",
+              "path": "/docs/algemeen/sla",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "algemeen/spoed",
+              "path": "/docs/algemeen/spoed",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bureau/item",
+              "path": "/docs/bureau/item",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "content vullen/afbeelding",
+              "path": "/docs/content vullen/afbeelding",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "content vullen/caching",
+              "path": "/docs/content vullen/caching",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "content vullen/concept",
+              "path": "/docs/content vullen/concept",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "content vullen/datum",
+              "path": "/docs/content vullen/datum",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "content vullen/dupliceren",
+              "path": "/docs/content vullen/dupliceren",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "content vullen/item",
+              "path": "/docs/content vullen/item",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "content vullen/pagina_templates",
+              "path": "/docs/content vullen/pagina_templates",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "content vullen/pdfinbutton",
+              "path": "/docs/content vullen/pdfinbutton",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "content vullen/permalinks",
+              "path": "/docs/content vullen/permalinks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "content vullen/posttypes",
+              "path": "/docs/content vullen/posttypes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "content vullen/uitleg",
+              "path": "/docs/content vullen/uitleg",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "content vullen/voorbeeld",
+              "path": "/docs/content vullen/voorbeeld",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "content vullen/wysiwyg",
+              "path": "/docs/content vullen/wysiwyg",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "formulieren/aanmaken",
               "path": "/docs/formulieren/aanmaken",
               "sidebar": "tutorialSidebar"
@@ -26,6 +116,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "formulieren/conditioneel",
+              "path": "/docs/formulieren/conditioneel",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "formulieren/gebruiken",
               "path": "/docs/formulieren/gebruiken",
               "sidebar": "tutorialSidebar"
@@ -33,6 +128,16 @@
             {
               "id": "formulieren/inzendingen",
               "path": "/docs/formulieren/inzendingen",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "formulieren/mailchimp",
+              "path": "/docs/formulieren/mailchimp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "formulieren/mails",
+              "path": "/docs/formulieren/mails",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -46,38 +151,23 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "je-eerste-login/formulieren",
-              "path": "/docs/je-eerste-login/formulieren",
+              "id": "leadinfo/item",
+              "path": "/docs/leadinfo/item",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "je-eerste-login/gefeliciteerd",
-              "path": "/docs/je-eerste-login/gefeliciteerd",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "je-eerste-login/inloggen",
-              "path": "/docs/je-eerste-login/inloggen",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "je-eerste-login/mediabibliotheek",
-              "path": "/docs/je-eerste-login/mediabibliotheek",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "je-eerste-login/paginas",
-              "path": "/docs/je-eerste-login/paginas",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "je-eerste-login/thatsit",
-              "path": "/docs/je-eerste-login/thatsit",
+              "id": "livegang/item",
+              "path": "/docs/livegang/item",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "mediabibliotheek/filebird",
               "path": "/docs/mediabibliotheek/filebird",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "mediabibliotheek/groot",
+              "path": "/docs/mediabibliotheek/groot",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -93,6 +183,71 @@
             {
               "id": "mediabibliotheek/media-uploaden",
               "path": "/docs/mediabibliotheek/media-uploaden",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "mediabibliotheek/svg",
+              "path": "/docs/mediabibliotheek/svg",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "mediabibliotheek/vervangen",
+              "path": "/docs/mediabibliotheek/vervangen",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "seo/item",
+              "path": "/docs/seo/item",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "thatsit",
+              "path": "/docs/thatsit",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/item",
+              "path": "/docs/tools/item",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "woocommerce/aanmaken",
+              "path": "/docs/woocommerce/aanmaken",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "woocommerce/item",
+              "path": "/docs/woocommerce/item",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "woocommerce/pdf",
+              "path": "/docs/woocommerce/pdf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "woocommerce/settings/belasting",
+              "path": "/docs/woocommerce/settings/belasting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "woocommerce/settings/mailinstellingen",
+              "path": "/docs/woocommerce/settings/mailinstellingen",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "woocommerce/settings/mailtemplates",
+              "path": "/docs/woocommerce/settings/mailtemplates",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "woocommerce/settings/verzendkosten",
+              "path": "/docs/woocommerce/settings/verzendkosten",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "woocommerce/variaties",
+              "path": "/docs/woocommerce/variaties",
               "sidebar": "tutorialSidebar"
             }
           ]

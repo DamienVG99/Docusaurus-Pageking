@@ -1,0 +1,23 @@
+{
+  "unversionedId": "content vullen/caching",
+  "id": "content vullen/caching",
+  "isDocsHomePage": false,
+  "title": "caching",
+  "description": "",
+  "source": "@site/docs/content vullen/caching.md",
+  "sourceDirName": "content vullen",
+  "slug": "/content vullen/caching",
+  "permalink": "/docs/content vullen/caching",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/content vullen/caching.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "afbeelding",
+    "permalink": "/docs/content vullen/afbeelding"
+  },
+  "next": {
+    "title": "concept",
+    "permalink": "/docs/content vullen/concept"
+  }
+}
