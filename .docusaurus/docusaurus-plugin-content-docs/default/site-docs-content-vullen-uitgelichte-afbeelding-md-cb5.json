@@ -1,0 +1,26 @@
+{
+  "unversionedId": "content vullen/uitgelichte_afbeelding",
+  "id": "content vullen/uitgelichte_afbeelding",
+  "isDocsHomePage": false,
+  "title": "uitgelichte_afbeelding",
+  "description": "",
+  "source": "@site/docs/content vullen/uitgelichte_afbeelding.md",
+  "sourceDirName": "content vullen",
+  "slug": "/content vullen/uitgelichte_afbeelding",
+  "permalink": "/docs/content vullen/uitgelichte_afbeelding",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/content vullen/uitgelichte_afbeelding.md",
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "sidebar_position": 13
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "caching",
+    "permalink": "/docs/content vullen/caching"
+  },
+  "next": {
+    "title": "Mediabibliotheek 📸",
+    "permalink": "/docs/mediabibliotheek/media-uploaden"
+  }
+}

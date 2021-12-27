@@ -10,14 +10,17 @@
   "permalink": "/docs/content vullen/datum",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/content vullen/datum.md",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "concept",
-    "permalink": "/docs/content vullen/concept"
+    "title": "voorbeeld",
+    "permalink": "/docs/content vullen/voorbeeld"
   },
   "next": {
-    "title": "dupliceren",
-    "permalink": "/docs/content vullen/dupliceren"
+    "title": "permalinks",
+    "permalink": "/docs/content vullen/permalinks"
   }
 }

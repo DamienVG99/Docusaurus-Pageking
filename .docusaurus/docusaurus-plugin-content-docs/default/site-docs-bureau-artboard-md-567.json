@@ -1,0 +1,26 @@
+{
+  "unversionedId": "bureau/artboard",
+  "id": "bureau/artboard",
+  "isDocsHomePage": false,
+  "title": "Artboards",
+  "description": "",
+  "source": "@site/docs/bureau/artboard.md",
+  "sourceDirName": "bureau",
+  "slug": "/bureau/artboard",
+  "permalink": "/docs/bureau/artboard",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/bureau/artboard.md",
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Aanleveren design",
+    "permalink": "/docs/bureau/aanleveren"
+  },
+  "next": {
+    "title": "SVG",
+    "permalink": "/docs/bureau/svg"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "seo/analytics",
+  "id": "seo/analytics",
+  "isDocsHomePage": false,
+  "title": "analytics",
+  "description": "",
+  "source": "@site/docs/seo/analytics.md",
+  "sourceDirName": "seo",
+  "slug": "/seo/analytics",
+  "permalink": "/docs/seo/analytics",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/seo/analytics.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "variaties",
+    "permalink": "/docs/woocommerce/variaties"
+  },
+  "next": {
+    "title": "rankmath",
+    "permalink": "/docs/seo/rankmath"
+  }
+}

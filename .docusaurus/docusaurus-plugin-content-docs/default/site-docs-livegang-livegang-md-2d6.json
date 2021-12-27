@@ -1,0 +1,26 @@
+{
+  "unversionedId": "livegang/livegang",
+  "id": "livegang/livegang",
+  "isDocsHomePage": false,
+  "title": "livegang",
+  "description": "",
+  "source": "@site/docs/livegang/livegang.md",
+  "sourceDirName": "livegang",
+  "slug": "/livegang/livegang",
+  "permalink": "/docs/livegang/livegang",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/livegang/livegang.md",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "triggers",
+    "permalink": "/docs/leadinfo/triggers"
+  },
+  "next": {
+    "title": "Aanleveren design",
+    "permalink": "/docs/bureau/aanleveren"
+  }
+}

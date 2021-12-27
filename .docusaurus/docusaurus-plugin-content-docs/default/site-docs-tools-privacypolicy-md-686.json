@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tools/privacypolicy",
+  "id": "tools/privacypolicy",
+  "isDocsHomePage": false,
+  "title": "privacypolicy",
+  "description": "",
+  "source": "@site/docs/tools/privacypolicy.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/privacypolicy",
+  "permalink": "/docs/tools/privacypolicy",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/tools/privacypolicy.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "partners_documenten",
+    "permalink": "/docs/tools/partners_documenten"
+  },
+  "next": {
+    "title": "unsplash",
+    "permalink": "/docs/tools/unsplash"
+  }
+}

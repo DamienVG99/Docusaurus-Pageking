@@ -10,14 +10,17 @@
   "permalink": "/docs/content vullen/afbeelding",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/content vullen/afbeelding.md",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "item",
-    "permalink": "/docs/content vullen/item"
+    "title": "wysiwyg",
+    "permalink": "/docs/content vullen/wysiwyg"
   },
   "next": {
-    "title": "caching",
-    "permalink": "/docs/content vullen/caching"
+    "title": "pagina_templates",
+    "permalink": "/docs/content vullen/pagina_templates"
   }
 }

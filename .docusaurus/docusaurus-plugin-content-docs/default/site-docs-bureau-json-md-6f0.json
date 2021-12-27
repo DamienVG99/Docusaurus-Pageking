@@ -1,0 +1,26 @@
+{
+  "unversionedId": "bureau/json",
+  "id": "bureau/json",
+  "isDocsHomePage": false,
+  "title": "JSON",
+  "description": "",
+  "source": "@site/docs/bureau/json.md",
+  "sourceDirName": "bureau",
+  "slug": "/bureau/json",
+  "permalink": "/docs/bureau/json",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/bureau/json.md",
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SVG",
+    "permalink": "/docs/bureau/svg"
+  },
+  "next": {
+    "title": "Voorkeuren",
+    "permalink": "/docs/bureau/voorkeuren"
+  }
+}

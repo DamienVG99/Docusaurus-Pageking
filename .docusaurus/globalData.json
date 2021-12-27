@@ -31,8 +31,33 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "bureau/item",
-              "path": "/docs/bureau/item",
+              "id": "bureau/aanleveren",
+              "path": "/docs/bureau/aanleveren",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bureau/artboard",
+              "path": "/docs/bureau/artboard",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bureau/dodont",
+              "path": "/docs/bureau/dodont",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bureau/json",
+              "path": "/docs/bureau/json",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bureau/svg",
+              "path": "/docs/bureau/svg",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bureau/voorkeuren",
+              "path": "/docs/bureau/voorkeuren",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -61,11 +86,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "content vullen/item",
-              "path": "/docs/content vullen/item",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "content vullen/pagina_templates",
               "path": "/docs/content vullen/pagina_templates",
               "sidebar": "tutorialSidebar"
@@ -83,6 +103,11 @@
             {
               "id": "content vullen/posttypes",
               "path": "/docs/content vullen/posttypes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "content vullen/uitgelichte_afbeelding",
+              "path": "/docs/content vullen/uitgelichte_afbeelding",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -151,13 +176,28 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "leadinfo/item",
-              "path": "/docs/leadinfo/item",
+              "id": "leadinfo/dashboard",
+              "path": "/docs/leadinfo/dashboard",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "livegang/item",
-              "path": "/docs/livegang/item",
+              "id": "leadinfo/exporteren",
+              "path": "/docs/leadinfo/exporteren",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "leadinfo/inbox",
+              "path": "/docs/leadinfo/inbox",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "leadinfo/triggers",
+              "path": "/docs/leadinfo/triggers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "livegang/livegang",
+              "path": "/docs/livegang/livegang",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -196,8 +236,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "seo/item",
-              "path": "/docs/seo/item",
+              "id": "seo/analytics",
+              "path": "/docs/seo/analytics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "seo/rankmath",
+              "path": "/docs/seo/rankmath",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "seo/yoast",
+              "path": "/docs/seo/yoast",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -206,18 +256,33 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tools/item",
-              "path": "/docs/tools/item",
+              "id": "tools/comprimerenafbeelding",
+              "path": "/docs/tools/comprimerenafbeelding",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/leadinfo",
+              "path": "/docs/tools/leadinfo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/partners_documenten",
+              "path": "/docs/tools/partners_documenten",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/privacypolicy",
+              "path": "/docs/tools/privacypolicy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/unsplash",
+              "path": "/docs/tools/unsplash",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "woocommerce/aanmaken",
               "path": "/docs/woocommerce/aanmaken",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "woocommerce/item",
-              "path": "/docs/woocommerce/item",
               "sidebar": "tutorialSidebar"
             },
             {

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "bureau/svg",
+  "id": "bureau/svg",
+  "isDocsHomePage": false,
+  "title": "SVG",
+  "description": "",
+  "source": "@site/docs/bureau/svg.md",
+  "sourceDirName": "bureau",
+  "slug": "/bureau/svg",
+  "permalink": "/docs/bureau/svg",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/bureau/svg.md",
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Artboards",
+    "permalink": "/docs/bureau/artboard"
+  },
+  "next": {
+    "title": "JSON",
+    "permalink": "/docs/bureau/json"
+  }
+}

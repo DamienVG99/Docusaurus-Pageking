@@ -10,14 +10,17 @@
   "permalink": "/docs/content vullen/pdfinbutton",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/content vullen/pdfinbutton.md",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "pagina_templates",
-    "permalink": "/docs/content vullen/pagina_templates"
+    "title": "posttypes",
+    "permalink": "/docs/content vullen/posttypes"
   },
   "next": {
-    "title": "permalinks",
-    "permalink": "/docs/content vullen/permalinks"
+    "title": "concept",
+    "permalink": "/docs/content vullen/concept"
   }
 }

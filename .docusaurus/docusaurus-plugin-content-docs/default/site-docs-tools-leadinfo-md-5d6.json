@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tools/leadinfo",
+  "id": "tools/leadinfo",
+  "isDocsHomePage": false,
+  "title": "leadinfo",
+  "description": "",
+  "source": "@site/docs/tools/leadinfo.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/leadinfo",
+  "permalink": "/docs/tools/leadinfo",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/tools/leadinfo.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "comprimerenafbeelding",
+    "permalink": "/docs/tools/comprimerenafbeelding"
+  },
+  "next": {
+    "title": "partners_documenten",
+    "permalink": "/docs/tools/partners_documenten"
+  }
+}

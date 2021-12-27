@@ -16,7 +16,7 @@
         "items": [
           {
             "type": "link",
-            "label": "Gefeliciteerd!",
+            "label": "Welkom!",
             "href": "/docs/algemeen/gefeliciteerd"
           },
           {
@@ -33,6 +33,78 @@
             "type": "link",
             "label": "Spoed",
             "href": "/docs/algemeen/spoed"
+          }
+        ],
+        "collapsed": true
+      },
+      {
+        "type": "category",
+        "label": "Content vullen",
+        "items": [
+          {
+            "type": "link",
+            "label": "Uitleg",
+            "href": "/docs/content vullen/uitleg"
+          },
+          {
+            "type": "link",
+            "label": "wysiwyg",
+            "href": "/docs/content vullen/wysiwyg"
+          },
+          {
+            "type": "link",
+            "label": "afbeelding",
+            "href": "/docs/content vullen/afbeelding"
+          },
+          {
+            "type": "link",
+            "label": "pagina_templates",
+            "href": "/docs/content vullen/pagina_templates"
+          },
+          {
+            "type": "link",
+            "label": "posttypes",
+            "href": "/docs/content vullen/posttypes"
+          },
+          {
+            "type": "link",
+            "label": "pdfinbutton",
+            "href": "/docs/content vullen/pdfinbutton"
+          },
+          {
+            "type": "link",
+            "label": "concept",
+            "href": "/docs/content vullen/concept"
+          },
+          {
+            "type": "link",
+            "label": "voorbeeld",
+            "href": "/docs/content vullen/voorbeeld"
+          },
+          {
+            "type": "link",
+            "label": "datum",
+            "href": "/docs/content vullen/datum"
+          },
+          {
+            "type": "link",
+            "label": "permalinks",
+            "href": "/docs/content vullen/permalinks"
+          },
+          {
+            "type": "link",
+            "label": "dupliceren",
+            "href": "/docs/content vullen/dupliceren"
+          },
+          {
+            "type": "link",
+            "label": "caching",
+            "href": "/docs/content vullen/caching"
+          },
+          {
+            "type": "link",
+            "label": "uitgelichte_afbeelding",
+            "href": "/docs/content vullen/uitgelichte_afbeelding"
           }
         ],
         "collapsed": true
@@ -75,78 +147,6 @@
             "type": "link",
             "label": "vervangen",
             "href": "/docs/mediabibliotheek/vervangen"
-          }
-        ],
-        "collapsed": true
-      },
-      {
-        "type": "category",
-        "label": "Content vullen",
-        "items": [
-          {
-            "type": "link",
-            "label": "item",
-            "href": "/docs/content vullen/item"
-          },
-          {
-            "type": "link",
-            "label": "afbeelding",
-            "href": "/docs/content vullen/afbeelding"
-          },
-          {
-            "type": "link",
-            "label": "caching",
-            "href": "/docs/content vullen/caching"
-          },
-          {
-            "type": "link",
-            "label": "concept",
-            "href": "/docs/content vullen/concept"
-          },
-          {
-            "type": "link",
-            "label": "datum",
-            "href": "/docs/content vullen/datum"
-          },
-          {
-            "type": "link",
-            "label": "dupliceren",
-            "href": "/docs/content vullen/dupliceren"
-          },
-          {
-            "type": "link",
-            "label": "pagina_templates",
-            "href": "/docs/content vullen/pagina_templates"
-          },
-          {
-            "type": "link",
-            "label": "pdfinbutton",
-            "href": "/docs/content vullen/pdfinbutton"
-          },
-          {
-            "type": "link",
-            "label": "permalinks",
-            "href": "/docs/content vullen/permalinks"
-          },
-          {
-            "type": "link",
-            "label": "posttypes",
-            "href": "/docs/content vullen/posttypes"
-          },
-          {
-            "type": "link",
-            "label": "uitleg",
-            "href": "/docs/content vullen/uitleg"
-          },
-          {
-            "type": "link",
-            "label": "voorbeeld",
-            "href": "/docs/content vullen/voorbeeld"
-          },
-          {
-            "type": "link",
-            "label": "wysiwyg",
-            "href": "/docs/content vullen/wysiwyg"
           }
         ],
         "collapsed": true
@@ -208,13 +208,8 @@
         "label": "Woocommerce",
         "items": [
           {
-            "type": "link",
-            "label": "item",
-            "href": "/docs/woocommerce/item"
-          },
-          {
             "type": "category",
-            "label": "Tools",
+            "label": "Settings",
             "items": [
               {
                 "type": "link",
@@ -263,8 +258,18 @@
         "items": [
           {
             "type": "link",
-            "label": "item",
-            "href": "/docs/seo/item"
+            "label": "analytics",
+            "href": "/docs/seo/analytics"
+          },
+          {
+            "type": "link",
+            "label": "rankmath",
+            "href": "/docs/seo/rankmath"
+          },
+          {
+            "type": "link",
+            "label": "yoast",
+            "href": "/docs/seo/yoast"
           }
         ],
         "collapsed": true
@@ -275,8 +280,28 @@
         "items": [
           {
             "type": "link",
-            "label": "item",
-            "href": "/docs/tools/item"
+            "label": "comprimerenafbeelding",
+            "href": "/docs/tools/comprimerenafbeelding"
+          },
+          {
+            "type": "link",
+            "label": "leadinfo",
+            "href": "/docs/tools/leadinfo"
+          },
+          {
+            "type": "link",
+            "label": "partners_documenten",
+            "href": "/docs/tools/partners_documenten"
+          },
+          {
+            "type": "link",
+            "label": "privacypolicy",
+            "href": "/docs/tools/privacypolicy"
+          },
+          {
+            "type": "link",
+            "label": "unsplash",
+            "href": "/docs/tools/unsplash"
           }
         ],
         "collapsed": true
@@ -287,8 +312,23 @@
         "items": [
           {
             "type": "link",
-            "label": "item",
-            "href": "/docs/leadinfo/item"
+            "label": "dashboard",
+            "href": "/docs/leadinfo/dashboard"
+          },
+          {
+            "type": "link",
+            "label": "exporteren",
+            "href": "/docs/leadinfo/exporteren"
+          },
+          {
+            "type": "link",
+            "label": "inbox",
+            "href": "/docs/leadinfo/inbox"
+          },
+          {
+            "type": "link",
+            "label": "triggers",
+            "href": "/docs/leadinfo/triggers"
           }
         ],
         "collapsed": true
@@ -299,8 +339,8 @@
         "items": [
           {
             "type": "link",
-            "label": "item",
-            "href": "/docs/livegang/item"
+            "label": "livegang",
+            "href": "/docs/livegang/livegang"
           }
         ],
         "collapsed": true
@@ -311,8 +351,33 @@
         "items": [
           {
             "type": "link",
-            "label": "item",
-            "href": "/docs/bureau/item"
+            "label": "Aanleveren design",
+            "href": "/docs/bureau/aanleveren"
+          },
+          {
+            "type": "link",
+            "label": "Artboards",
+            "href": "/docs/bureau/artboard"
+          },
+          {
+            "type": "link",
+            "label": "SVG",
+            "href": "/docs/bureau/svg"
+          },
+          {
+            "type": "link",
+            "label": "JSON",
+            "href": "/docs/bureau/json"
+          },
+          {
+            "type": "link",
+            "label": "Voorkeuren",
+            "href": "/docs/bureau/voorkeuren"
+          },
+          {
+            "type": "link",
+            "label": "Do's - Dont's",
+            "href": "/docs/bureau/dodont"
           }
         ],
         "collapsed": true
@@ -329,17 +394,22 @@
     "/docs/algemeen/inloggen": "tutorialSidebar",
     "/docs/algemeen/sla": "tutorialSidebar",
     "/docs/algemeen/spoed": "tutorialSidebar",
-    "/docs/bureau/item": "tutorialSidebar",
+    "/docs/bureau/aanleveren": "tutorialSidebar",
+    "/docs/bureau/artboard": "tutorialSidebar",
+    "/docs/bureau/dodont": "tutorialSidebar",
+    "/docs/bureau/json": "tutorialSidebar",
+    "/docs/bureau/svg": "tutorialSidebar",
+    "/docs/bureau/voorkeuren": "tutorialSidebar",
     "/docs/content vullen/afbeelding": "tutorialSidebar",
     "/docs/content vullen/caching": "tutorialSidebar",
     "/docs/content vullen/concept": "tutorialSidebar",
     "/docs/content vullen/datum": "tutorialSidebar",
     "/docs/content vullen/dupliceren": "tutorialSidebar",
-    "/docs/content vullen/item": "tutorialSidebar",
     "/docs/content vullen/pagina_templates": "tutorialSidebar",
     "/docs/content vullen/pdfinbutton": "tutorialSidebar",
     "/docs/content vullen/permalinks": "tutorialSidebar",
     "/docs/content vullen/posttypes": "tutorialSidebar",
+    "/docs/content vullen/uitgelichte_afbeelding": "tutorialSidebar",
     "/docs/content vullen/uitleg": "tutorialSidebar",
     "/docs/content vullen/voorbeeld": "tutorialSidebar",
     "/docs/content vullen/wysiwyg": "tutorialSidebar",
@@ -353,8 +423,11 @@
     "/docs/formulieren/mails": "tutorialSidebar",
     "/docs/formulieren/meldingen": "tutorialSidebar",
     "/docs/intro": "tutorialSidebar",
-    "/docs/leadinfo/item": "tutorialSidebar",
-    "/docs/livegang/item": "tutorialSidebar",
+    "/docs/leadinfo/dashboard": "tutorialSidebar",
+    "/docs/leadinfo/exporteren": "tutorialSidebar",
+    "/docs/leadinfo/inbox": "tutorialSidebar",
+    "/docs/leadinfo/triggers": "tutorialSidebar",
+    "/docs/livegang/livegang": "tutorialSidebar",
     "/docs/mediabibliotheek/filebird": "tutorialSidebar",
     "/docs/mediabibliotheek/groot": "tutorialSidebar",
     "/docs/mediabibliotheek/media-aanpassen": "tutorialSidebar",
@@ -362,11 +435,16 @@
     "/docs/mediabibliotheek/media-uploaden": "tutorialSidebar",
     "/docs/mediabibliotheek/svg": "tutorialSidebar",
     "/docs/mediabibliotheek/vervangen": "tutorialSidebar",
-    "/docs/seo/item": "tutorialSidebar",
+    "/docs/seo/analytics": "tutorialSidebar",
+    "/docs/seo/rankmath": "tutorialSidebar",
+    "/docs/seo/yoast": "tutorialSidebar",
     "/docs/thatsit": "tutorialSidebar",
-    "/docs/tools/item": "tutorialSidebar",
+    "/docs/tools/comprimerenafbeelding": "tutorialSidebar",
+    "/docs/tools/leadinfo": "tutorialSidebar",
+    "/docs/tools/partners_documenten": "tutorialSidebar",
+    "/docs/tools/privacypolicy": "tutorialSidebar",
+    "/docs/tools/unsplash": "tutorialSidebar",
     "/docs/woocommerce/aanmaken": "tutorialSidebar",
-    "/docs/woocommerce/item": "tutorialSidebar",
     "/docs/woocommerce/pdf": "tutorialSidebar",
     "/docs/woocommerce/settings/belasting": "tutorialSidebar",
     "/docs/woocommerce/settings/mailinstellingen": "tutorialSidebar",

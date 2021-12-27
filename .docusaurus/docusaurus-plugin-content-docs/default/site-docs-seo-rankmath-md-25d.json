@@ -1,0 +1,23 @@
+{
+  "unversionedId": "seo/rankmath",
+  "id": "seo/rankmath",
+  "isDocsHomePage": false,
+  "title": "rankmath",
+  "description": "",
+  "source": "@site/docs/seo/rankmath.md",
+  "sourceDirName": "seo",
+  "slug": "/seo/rankmath",
+  "permalink": "/docs/seo/rankmath",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/seo/rankmath.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "analytics",
+    "permalink": "/docs/seo/analytics"
+  },
+  "next": {
+    "title": "yoast",
+    "permalink": "/docs/seo/yoast"
+  }
+}

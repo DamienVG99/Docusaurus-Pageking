@@ -1,0 +1,26 @@
+{
+  "unversionedId": "bureau/voorkeuren",
+  "id": "bureau/voorkeuren",
+  "isDocsHomePage": false,
+  "title": "Voorkeuren",
+  "description": "",
+  "source": "@site/docs/bureau/voorkeuren.md",
+  "sourceDirName": "bureau",
+  "slug": "/bureau/voorkeuren",
+  "permalink": "/docs/bureau/voorkeuren",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/bureau/voorkeuren.md",
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JSON",
+    "permalink": "/docs/bureau/json"
+  },
+  "next": {
+    "title": "Do's - Dont's",
+    "permalink": "/docs/bureau/dodont"
+  }
+}

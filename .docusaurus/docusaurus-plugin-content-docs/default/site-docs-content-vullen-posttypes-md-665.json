@@ -10,14 +10,17 @@
   "permalink": "/docs/content vullen/posttypes",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/content vullen/posttypes.md",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "permalinks",
-    "permalink": "/docs/content vullen/permalinks"
+    "title": "pagina_templates",
+    "permalink": "/docs/content vullen/pagina_templates"
   },
   "next": {
-    "title": "uitleg",
-    "permalink": "/docs/content vullen/uitleg"
+    "title": "pdfinbutton",
+    "permalink": "/docs/content vullen/pdfinbutton"
   }
 }

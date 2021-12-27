@@ -10,14 +10,17 @@
   "permalink": "/docs/content vullen/permalinks",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/content vullen/permalinks.md",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "pdfinbutton",
-    "permalink": "/docs/content vullen/pdfinbutton"
+    "title": "datum",
+    "permalink": "/docs/content vullen/datum"
   },
   "next": {
-    "title": "posttypes",
-    "permalink": "/docs/content vullen/posttypes"
+    "title": "dupliceren",
+    "permalink": "/docs/content vullen/dupliceren"
   }
 }

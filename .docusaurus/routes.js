@@ -24,7 +24,7 @@ export default [
 },
 {
   path: '/docs',
-  component: ComponentCreator('/docs','569'),
+  component: ComponentCreator('/docs','33f'),
   
   routes: [
 {
@@ -48,8 +48,33 @@ export default [
   exact: true,
 },
 {
-  path: '/docs/bureau/item',
-  component: ComponentCreator('/docs/bureau/item','99f'),
+  path: '/docs/bureau/aanleveren',
+  component: ComponentCreator('/docs/bureau/aanleveren','801'),
+  exact: true,
+},
+{
+  path: '/docs/bureau/artboard',
+  component: ComponentCreator('/docs/bureau/artboard','bf5'),
+  exact: true,
+},
+{
+  path: '/docs/bureau/dodont',
+  component: ComponentCreator('/docs/bureau/dodont','a40'),
+  exact: true,
+},
+{
+  path: '/docs/bureau/json',
+  component: ComponentCreator('/docs/bureau/json','188'),
+  exact: true,
+},
+{
+  path: '/docs/bureau/svg',
+  component: ComponentCreator('/docs/bureau/svg','386'),
+  exact: true,
+},
+{
+  path: '/docs/bureau/voorkeuren',
+  component: ComponentCreator('/docs/bureau/voorkeuren','d08'),
   exact: true,
 },
 {
@@ -78,11 +103,6 @@ export default [
   exact: true,
 },
 {
-  path: '/docs/content vullen/item',
-  component: ComponentCreator('/docs/content vullen/item','d30'),
-  exact: true,
-},
-{
   path: '/docs/content vullen/pagina_templates',
   component: ComponentCreator('/docs/content vullen/pagina_templates','ebd'),
   exact: true,
@@ -100,6 +120,11 @@ export default [
 {
   path: '/docs/content vullen/posttypes',
   component: ComponentCreator('/docs/content vullen/posttypes','fe7'),
+  exact: true,
+},
+{
+  path: '/docs/content vullen/uitgelichte_afbeelding',
+  component: ComponentCreator('/docs/content vullen/uitgelichte_afbeelding','166'),
   exact: true,
 },
 {
@@ -168,13 +193,28 @@ export default [
   exact: true,
 },
 {
-  path: '/docs/leadinfo/item',
-  component: ComponentCreator('/docs/leadinfo/item','230'),
+  path: '/docs/leadinfo/dashboard',
+  component: ComponentCreator('/docs/leadinfo/dashboard','32a'),
   exact: true,
 },
 {
-  path: '/docs/livegang/item',
-  component: ComponentCreator('/docs/livegang/item','d61'),
+  path: '/docs/leadinfo/exporteren',
+  component: ComponentCreator('/docs/leadinfo/exporteren','177'),
+  exact: true,
+},
+{
+  path: '/docs/leadinfo/inbox',
+  component: ComponentCreator('/docs/leadinfo/inbox','a05'),
+  exact: true,
+},
+{
+  path: '/docs/leadinfo/triggers',
+  component: ComponentCreator('/docs/leadinfo/triggers','edd'),
+  exact: true,
+},
+{
+  path: '/docs/livegang/livegang',
+  component: ComponentCreator('/docs/livegang/livegang','0e0'),
   exact: true,
 },
 {
@@ -213,8 +253,18 @@ export default [
   exact: true,
 },
 {
-  path: '/docs/seo/item',
-  component: ComponentCreator('/docs/seo/item','1ba'),
+  path: '/docs/seo/analytics',
+  component: ComponentCreator('/docs/seo/analytics','e04'),
+  exact: true,
+},
+{
+  path: '/docs/seo/rankmath',
+  component: ComponentCreator('/docs/seo/rankmath','7b7'),
+  exact: true,
+},
+{
+  path: '/docs/seo/yoast',
+  component: ComponentCreator('/docs/seo/yoast','c4b'),
   exact: true,
 },
 {
@@ -223,18 +273,33 @@ export default [
   exact: true,
 },
 {
-  path: '/docs/tools/item',
-  component: ComponentCreator('/docs/tools/item','265'),
+  path: '/docs/tools/comprimerenafbeelding',
+  component: ComponentCreator('/docs/tools/comprimerenafbeelding','32c'),
+  exact: true,
+},
+{
+  path: '/docs/tools/leadinfo',
+  component: ComponentCreator('/docs/tools/leadinfo','8b8'),
+  exact: true,
+},
+{
+  path: '/docs/tools/partners_documenten',
+  component: ComponentCreator('/docs/tools/partners_documenten','c1e'),
+  exact: true,
+},
+{
+  path: '/docs/tools/privacypolicy',
+  component: ComponentCreator('/docs/tools/privacypolicy','906'),
+  exact: true,
+},
+{
+  path: '/docs/tools/unsplash',
+  component: ComponentCreator('/docs/tools/unsplash','804'),
   exact: true,
 },
 {
   path: '/docs/woocommerce/aanmaken',
   component: ComponentCreator('/docs/woocommerce/aanmaken','b09'),
-  exact: true,
-},
-{
-  path: '/docs/woocommerce/item',
-  component: ComponentCreator('/docs/woocommerce/item','1ee'),
   exact: true,
 },
 {

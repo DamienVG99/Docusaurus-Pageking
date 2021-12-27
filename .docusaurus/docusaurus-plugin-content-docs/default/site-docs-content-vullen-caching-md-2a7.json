@@ -10,14 +10,17 @@
   "permalink": "/docs/content vullen/caching",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/content vullen/caching.md",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_position": 12
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "afbeelding",
-    "permalink": "/docs/content vullen/afbeelding"
+    "title": "dupliceren",
+    "permalink": "/docs/content vullen/dupliceren"
   },
   "next": {
-    "title": "concept",
-    "permalink": "/docs/content vullen/concept"
+    "title": "uitgelichte_afbeelding",
+    "permalink": "/docs/content vullen/uitgelichte_afbeelding"
   }
 }

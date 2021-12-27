@@ -10,7 +10,10 @@
   "permalink": "/docs/mediabibliotheek/svg",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/mediabibliotheek/svg.md",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Comprimeren",

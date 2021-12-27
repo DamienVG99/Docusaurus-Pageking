@@ -10,14 +10,17 @@
   "permalink": "/docs/content vullen/wysiwyg",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/content vullen/wysiwyg.md",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "voorbeeld",
-    "permalink": "/docs/content vullen/voorbeeld"
+    "title": "Uitleg",
+    "permalink": "/docs/content vullen/uitleg"
   },
   "next": {
-    "title": "Aanmaken en bewerken",
-    "permalink": "/docs/formulieren/aanmaken"
+    "title": "afbeelding",
+    "permalink": "/docs/content vullen/afbeelding"
   }
 }

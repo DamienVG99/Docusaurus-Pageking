@@ -1,0 +1,23 @@
+{
+  "unversionedId": "leadinfo/triggers",
+  "id": "leadinfo/triggers",
+  "isDocsHomePage": false,
+  "title": "triggers",
+  "description": "",
+  "source": "@site/docs/leadinfo/triggers.md",
+  "sourceDirName": "leadinfo",
+  "slug": "/leadinfo/triggers",
+  "permalink": "/docs/leadinfo/triggers",
+  "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/leadinfo/triggers.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "inbox",
+    "permalink": "/docs/leadinfo/inbox"
+  },
+  "next": {
+    "title": "livegang",
+    "permalink": "/docs/livegang/livegang"
+  }
+}
