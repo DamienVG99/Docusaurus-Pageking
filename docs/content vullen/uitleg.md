@@ -48,11 +48,11 @@ In het **Herhalen** veld, kun je zoveel rijen content toevoegen als je wilt toev
 
 ## Flexibele Content
 
-Deze heeft dezelfde werking als het **Herhalen** veld, echter kun je hierbij ook kiezen wat voor soort rij je wilt toevoegen. Deze wordt gebruikt wanneer er veel soorten rijen toegevoegd moeten kunnen worden, zoals in bijvoorbeeld een tabel.
+Deze heeft dezelfde werking als het Herhalen veld, echter kun je hierbij ook kiezen wat voor soort rij je wilt toevoegen. Deze wordt gebruikt wanneer er veel soorten rijen toegevoegd moeten kunnen worden, zoals in bijvoorbeeld een tabel.
 
 ## WYSIWYG
 
-Een **"WYSIWYG"**, oftewel **"What you see is what you get" Editor** heeft meerdere opties, zoals het instellen van de tekstsoort, maar ook het toevoegen van **Media** en **Formulieren**.
+Een ["WYSIWYG"](./wysiwyg), oftewel ["What you see is what you get" Editor](./wysiwyg) heeft meerdere opties, zoals het instellen van de tekstsoort, maar ook het toevoegen van [Media](./../mediabibliotheek/media-uploaden) en [Formulieren](./../formulieren/aanmaken).
 
 ### Cheat Sheet
 
