@@ -2,8 +2,8 @@
   "unversionedId": "content vullen/wysiwyg",
   "id": "content vullen/wysiwyg",
   "isDocsHomePage": false,
-  "title": "wysiwyg",
-  "description": "",
+  "title": "WYSIWYG",
+  "description": "De \"What you see is what you get\" Editor is een krachtige alles in 1 tekst editor voor WordPress. In deze tutorial leggen we je alle functies uit van deze editor.",
   "source": "@site/docs/content vullen/wysiwyg.md",
   "sourceDirName": "content vullen",
   "slug": "/content vullen/wysiwyg",
@@ -20,7 +20,7 @@
     "permalink": "/docs/content vullen/uitleg"
   },
   "next": {
-    "title": "afbeelding",
+    "title": "Afbeelding",
     "permalink": "/docs/content vullen/afbeelding"
   }
 }

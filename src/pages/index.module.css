@@ -38,3 +38,11 @@ h1, h2, h3, h4, h5, h6{
 p, a{
   font-family: "Circular-Regular";
 }
+
+.row .col.col--4 {
+  --ifm-col-width: 31.33333%;
+  border: 3px #cccccc solid;
+  border-radius: 5px;
+  margin: 1%;
+  padding-top: 35px;
+}

@@ -31,7 +31,9 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
 
-
+html{
+  scroll-behavior: smooth;
+}
 @font-face {
   font-family: "Circular-Bold";
   src: url('../../static/fonts/CircularStd-Bold.ttf');
@@ -44,3 +46,4 @@ h1, h2, h3, h4, h5, h6{
 p, a{
   font-family: "Circular-Regular";
 }
+

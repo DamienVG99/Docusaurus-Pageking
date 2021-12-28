@@ -2,8 +2,8 @@
   "unversionedId": "content vullen/afbeelding",
   "id": "content vullen/afbeelding",
   "isDocsHomePage": false,
-  "title": "afbeelding",
-  "description": "",
+  "title": "Afbeelding",
+  "description": "Uiteraard kun je in de WYSIWYG Editor afbeeldingen toevoegen, echter, op",
   "source": "@site/docs/content vullen/afbeelding.md",
   "sourceDirName": "content vullen",
   "slug": "/content vullen/afbeelding",
@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "wysiwyg",
+    "title": "WYSIWYG",
     "permalink": "/docs/content vullen/wysiwyg"
   },
   "next": {

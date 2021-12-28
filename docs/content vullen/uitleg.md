@@ -32,7 +32,7 @@ Een **URL** veld spreekt uiteraard voor zich, hiermee kun je een URL ingeven. Je
 
 ## Afbeelding
 
-Een **Afbeelding** kan toegevoegd worden in dit veld. Houdt er rekening mee dat deze afbeelding gebruikt wordt ergens in de pagina. Voor andere [Post Types](./posttypes) zul je ook de [Uitgelichte afbeelding](./uitgelichte_afbeelding) moeten vullen.
+Een [Afbeelding](./afbeelding) kan toegevoegd worden in dit veld. Houdt er rekening mee dat deze afbeelding gebruikt wordt ergens in de pagina. Voor andere [Post Types](./posttypes) zul je ook de [Uitgelichte afbeelding](./uitgelichte_afbeelding) moeten vullen.
 
 <img src="https://wiki.pageking.nl/img/content-vullen/afbeelding.png"></img>
 
