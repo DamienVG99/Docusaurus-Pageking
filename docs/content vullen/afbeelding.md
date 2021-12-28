@@ -16,4 +16,8 @@ Je kunt hier bladeren door de [mediabibliotheek](./../mediabibliotheek/media-upl
 
 ## Bewerken van een afbeelding
 
-Als je de afbeelding hebt toegevoegd en je over de afbeelding heen gaat met je muis, kun je de gegevens van de [afbeelding aanpassen](./../mediabibliotheek/media-aanpassen).
+Als je de afbeelding hebt toegevoegd en je over de afbeelding heen gaat met je muis, kun je de gegevens van de [afbeelding aanpassen](./../mediabibliotheek/media-aanpassen). Dit doe je door het klikken op het potlood.
+
+## Verwijderen van de afbeelding
+
+Dit werkt op dezelfde manier als het bewerken, echter dan druk je op het kruisje, zodra je met je muis over de afbeelding heen gaat.
