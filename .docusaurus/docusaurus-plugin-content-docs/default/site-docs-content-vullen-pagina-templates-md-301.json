@@ -2,8 +2,8 @@
   "unversionedId": "content vullen/pagina_templates",
   "id": "content vullen/pagina_templates",
   "isDocsHomePage": false,
-  "title": "pagina_templates",
-  "description": "",
+  "title": "Pagina Templates",
+  "description": "@Wouter",
   "source": "@site/docs/content vullen/pagina_templates.md",
   "sourceDirName": "content vullen",
   "slug": "/content vullen/pagina_templates",
@@ -20,7 +20,7 @@
     "permalink": "/docs/content vullen/afbeelding"
   },
   "next": {
-    "title": "posttypes",
+    "title": "Post Types",
     "permalink": "/docs/content vullen/posttypes"
   }
 }

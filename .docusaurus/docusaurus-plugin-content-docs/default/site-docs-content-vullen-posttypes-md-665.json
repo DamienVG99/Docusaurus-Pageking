@@ -2,8 +2,8 @@
   "unversionedId": "content vullen/posttypes",
   "id": "content vullen/posttypes",
   "isDocsHomePage": false,
-  "title": "posttypes",
-  "description": "",
+  "title": "Post Types",
+  "description": "In een standaard Pageking website, vind je een aantal \"Post Types\". Dit zijn de items, meestal aangeduid met een punaise. Dit zijn ook de Actualiteiten, met de wereldbol.",
   "source": "@site/docs/content vullen/posttypes.md",
   "sourceDirName": "content vullen",
   "slug": "/content vullen/posttypes",
@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "pagina_templates",
+    "title": "Pagina Templates",
     "permalink": "/docs/content vullen/pagina_templates"
   },
   "next": {

@@ -3,7 +3,7 @@
   "id": "content vullen/afbeelding",
   "isDocsHomePage": false,
   "title": "Afbeelding",
-  "description": "Uiteraard kun je in de WYSIWYG Editor afbeeldingen toevoegen, echter, op",
+  "description": "Uiteraard kun je in de WYSIWYG Editor afbeeldingen toevoegen, echter, op normale pagina's werkt dit op een andere manier.",
   "source": "@site/docs/content vullen/afbeelding.md",
   "sourceDirName": "content vullen",
   "slug": "/content vullen/afbeelding",
@@ -20,7 +20,7 @@
     "permalink": "/docs/content vullen/wysiwyg"
   },
   "next": {
-    "title": "pagina_templates",
+    "title": "Pagina Templates",
     "permalink": "/docs/content vullen/pagina_templates"
   }
 }

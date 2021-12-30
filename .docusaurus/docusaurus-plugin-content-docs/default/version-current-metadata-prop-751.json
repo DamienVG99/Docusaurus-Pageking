@@ -58,12 +58,12 @@
           },
           {
             "type": "link",
-            "label": "pagina_templates",
+            "label": "Pagina Templates",
             "href": "/docs/content vullen/pagina_templates"
           },
           {
             "type": "link",
-            "label": "posttypes",
+            "label": "Post Types",
             "href": "/docs/content vullen/posttypes"
           },
           {
