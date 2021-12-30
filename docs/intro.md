@@ -3,6 +3,8 @@ sidebar_label: 'Welkom op onze Wiki!'
 sidebar_position: 1
 ---
 
+<img src="https://wiki.pageking.nl/img/header.png" width="100%"></img>
+
 # Welkom op de Wiki van Pageking!
 
 De officiële Pageking Wiki is op dit moment in aanbouw. Mis je iets? Laat het dan weten via <a href="mailto:support@pageking.nl">support@pageking.nl</a>. We maken hier dan zo snel mogelijk een artikel over.
