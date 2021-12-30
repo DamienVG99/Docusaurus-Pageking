@@ -3,7 +3,7 @@ sidebar_label: 'Welkom op onze Wiki!'
 sidebar_position: 1
 ---
 
-<img src="https://wiki.pageking.nl/img/header.png" width="100%"></img>
+<img src="https://wiki.pageking.nl/img/header.svg" width="100%"></img>
 
 # Welkom op de Wiki van Pageking!
 
