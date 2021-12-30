@@ -2,7 +2,7 @@
   "unversionedId": "intro",
   "id": "intro",
   "isDocsHomePage": false,
-  "title": "Welkom op de Wiki van Pageking!",
+  "title": "",
   "description": "De officiële Pageking Wiki is op dit moment in aanbouw. Mis je iets? Laat het dan weten via support@pageking.nl. We maken hier dan zo snel mogelijk een artikel over.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
@@ -14,7 +14,8 @@
   "sidebarPosition": 1,
   "frontMatter": {
     "sidebar_label": "Welkom op onze Wiki!",
-    "sidebar_position": 1
+    "sidebar_position": 1,
+    "title": ""
   },
   "sidebar": "tutorialSidebar",
   "next": {
