@@ -10,11 +10,11 @@ Vooraf je aangemaakte pagina inzien? Dat kan! Bij het aanmaken van een nieuwe pa
 
 Je kunt deze hier laten staan, totdat je de pagina wilt lanceren.
 
-Als je daarna kiest voor voorbeeld bekijken, kun je de pagina alvast zien.
+Als je daarna kiest voor "Voorbeeld", kun je de pagina alvast zien.
 
 :::warning Let op
 
-De URL die je in je balk hebt bij het bekijken van een voorbeeld, is niet de URL waarop deze gepubliceerd wordt. Dit is
+De URL die je in je balk hebt bij het bekijken van een voorbeeld, is niet de URL waarop deze gepubliceerd wordt. Dit is een tijdelijke URL.
 
 :::
 
