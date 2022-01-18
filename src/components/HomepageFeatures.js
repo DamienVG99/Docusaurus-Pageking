@@ -40,7 +40,7 @@ function Feature({Svg, title, description}) {
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
-        <p>{description}</p><meta http-equiv="refresh" content="time; URL=https://wiki.pageking.nl/docs/intro/" />
+        <p>{description}</p><meta http-equiv="refresh" content="0; URL=https://wiki.pageking.nl/docs/intro/" />
       </div>
     </div>
   );
