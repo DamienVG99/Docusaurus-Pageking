@@ -24,7 +24,7 @@ export default [
 },
 {
   path: '/docs',
-  component: ComponentCreator('/docs','33f'),
+  component: ComponentCreator('/docs','298'),
   
   routes: [
 {
@@ -93,11 +93,6 @@ export default [
   exact: true,
 },
 {
-  path: '/docs/content vullen/datum',
-  component: ComponentCreator('/docs/content vullen/datum','3a3'),
-  exact: true,
-},
-{
   path: '/docs/content vullen/dupliceren',
   component: ComponentCreator('/docs/content vullen/dupliceren','f9b'),
   exact: true,
@@ -130,11 +125,6 @@ export default [
 {
   path: '/docs/content vullen/uitleg',
   component: ComponentCreator('/docs/content vullen/uitleg','c9e'),
-  exact: true,
-},
-{
-  path: '/docs/content vullen/voorbeeld',
-  component: ComponentCreator('/docs/content vullen/voorbeeld','3c7'),
   exact: true,
 },
 {

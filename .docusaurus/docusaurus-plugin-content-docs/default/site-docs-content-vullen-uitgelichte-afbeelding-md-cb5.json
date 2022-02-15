@@ -2,7 +2,7 @@
   "unversionedId": "content vullen/uitgelichte_afbeelding",
   "id": "content vullen/uitgelichte_afbeelding",
   "isDocsHomePage": false,
-  "title": "uitgelichte_afbeelding",
+  "title": "Uitgelichte afbeelding",
   "description": "",
   "source": "@site/docs/content vullen/uitgelichte_afbeelding.md",
   "sourceDirName": "content vullen",
@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "caching",
+    "title": "Caching",
     "permalink": "/docs/content vullen/caching"
   },
   "next": {

@@ -2,8 +2,8 @@
   "unversionedId": "content vullen/permalinks",
   "id": "content vullen/permalinks",
   "isDocsHomePage": false,
-  "title": "permalinks",
-  "description": "",
+  "title": "Permalink",
+  "description": "De Permalink is eigenlijk precies wat het zegt; Een permanente link naar een pagina op je website.",
   "source": "@site/docs/content vullen/permalinks.md",
   "sourceDirName": "content vullen",
   "slug": "/content vullen/permalinks",
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "datum",
-    "permalink": "/docs/content vullen/datum"
+    "title": "Concept",
+    "permalink": "/docs/content vullen/concept"
   },
   "next": {
-    "title": "dupliceren",
+    "title": "Dupliceren",
     "permalink": "/docs/content vullen/dupliceren"
   }
 }

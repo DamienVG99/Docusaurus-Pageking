@@ -76,11 +76,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "content vullen/datum",
-              "path": "/docs/content vullen/datum",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "content vullen/dupliceren",
               "path": "/docs/content vullen/dupliceren",
               "sidebar": "tutorialSidebar"
@@ -113,11 +108,6 @@
             {
               "id": "content vullen/uitleg",
               "path": "/docs/content vullen/uitleg",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "content vullen/voorbeeld",
-              "path": "/docs/content vullen/voorbeeld",
               "sidebar": "tutorialSidebar"
             },
             {

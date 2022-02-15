@@ -73,37 +73,27 @@
           },
           {
             "type": "link",
-            "label": "concept",
+            "label": "Concept",
             "href": "/docs/content vullen/concept"
           },
           {
             "type": "link",
-            "label": "voorbeeld",
-            "href": "/docs/content vullen/voorbeeld"
-          },
-          {
-            "type": "link",
-            "label": "datum",
-            "href": "/docs/content vullen/datum"
-          },
-          {
-            "type": "link",
-            "label": "permalinks",
+            "label": "Permalink",
             "href": "/docs/content vullen/permalinks"
           },
           {
             "type": "link",
-            "label": "dupliceren",
+            "label": "Dupliceren",
             "href": "/docs/content vullen/dupliceren"
           },
           {
             "type": "link",
-            "label": "caching",
+            "label": "Caching",
             "href": "/docs/content vullen/caching"
           },
           {
             "type": "link",
-            "label": "uitgelichte_afbeelding",
+            "label": "Uitgelichte afbeelding",
             "href": "/docs/content vullen/uitgelichte_afbeelding"
           }
         ],
@@ -403,7 +393,6 @@
     "/docs/content vullen/afbeelding": "tutorialSidebar",
     "/docs/content vullen/caching": "tutorialSidebar",
     "/docs/content vullen/concept": "tutorialSidebar",
-    "/docs/content vullen/datum": "tutorialSidebar",
     "/docs/content vullen/dupliceren": "tutorialSidebar",
     "/docs/content vullen/pagina_templates": "tutorialSidebar",
     "/docs/content vullen/pdfinbutton": "tutorialSidebar",
@@ -411,7 +400,6 @@
     "/docs/content vullen/posttypes": "tutorialSidebar",
     "/docs/content vullen/uitgelichte_afbeelding": "tutorialSidebar",
     "/docs/content vullen/uitleg": "tutorialSidebar",
-    "/docs/content vullen/voorbeeld": "tutorialSidebar",
     "/docs/content vullen/wysiwyg": "tutorialSidebar",
     "/docs/formulieren/aanmaken": "tutorialSidebar",
     "/docs/formulieren/beveiligingen": "tutorialSidebar",

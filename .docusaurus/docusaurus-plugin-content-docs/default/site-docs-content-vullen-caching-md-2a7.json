@@ -2,8 +2,8 @@
   "unversionedId": "content vullen/caching",
   "id": "content vullen/caching",
   "isDocsHomePage": false,
-  "title": "caching",
-  "description": "",
+  "title": "Caching",
+  "description": "Het klinkt vaak vrij apart, een systeem op je server dat je website met wel 40% kan versnellen. Dit is waar Caching aan meewerkt. Hoe werkt het en hoe gebruiken wij dit op onze servers? Dat leggen we je in dit artikel uit.",
   "source": "@site/docs/content vullen/caching.md",
   "sourceDirName": "content vullen",
   "slug": "/content vullen/caching",
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "dupliceren",
+    "title": "Dupliceren",
     "permalink": "/docs/content vullen/dupliceren"
   },
   "next": {
-    "title": "uitgelichte_afbeelding",
+    "title": "Uitgelichte afbeelding",
     "permalink": "/docs/content vullen/uitgelichte_afbeelding"
   }
 }

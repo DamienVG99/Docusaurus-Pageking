@@ -2,8 +2,8 @@
   "unversionedId": "content vullen/concept",
   "id": "content vullen/concept",
   "isDocsHomePage": false,
-  "title": "concept",
-  "description": "",
+  "title": "Concept",
+  "description": "Vooraf je aangemaakte pagina inzien? Dat kan! Bij het aanmaken van een nieuwe pagina kun je kiezen voor Concept opslaan. Dit staat rechtsbovenin in de buurt van de opslaan knop.",
   "source": "@site/docs/content vullen/concept.md",
   "sourceDirName": "content vullen",
   "slug": "/content vullen/concept",
@@ -20,7 +20,7 @@
     "permalink": "/docs/content vullen/pdfinbutton"
   },
   "next": {
-    "title": "voorbeeld",
-    "permalink": "/docs/content vullen/voorbeeld"
+    "title": "Permalink",
+    "permalink": "/docs/content vullen/permalinks"
   }
 }

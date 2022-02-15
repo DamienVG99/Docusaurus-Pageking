@@ -2,8 +2,8 @@
   "unversionedId": "content vullen/dupliceren",
   "id": "content vullen/dupliceren",
   "isDocsHomePage": false,
-  "title": "dupliceren",
-  "description": "",
+  "title": "Dupliceren",
+  "description": "De Dupliceren functie vind je onder iedere post of pagina. Dit is handig voor bijvoorbeeld het plaatsen van soortgelijke vacatures.",
   "source": "@site/docs/content vullen/dupliceren.md",
   "sourceDirName": "content vullen",
   "slug": "/content vullen/dupliceren",
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "permalinks",
+    "title": "Permalink",
     "permalink": "/docs/content vullen/permalinks"
   },
   "next": {
-    "title": "caching",
+    "title": "Caching",
     "permalink": "/docs/content vullen/caching"
   }
 }

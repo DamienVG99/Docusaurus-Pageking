@@ -67,7 +67,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2021 Pageking. Built with Docusaurus."
+      "copyright": "Copyright © 2022 Pageking. Built with Docusaurus."
     },
     "prism": {
       "theme": {
