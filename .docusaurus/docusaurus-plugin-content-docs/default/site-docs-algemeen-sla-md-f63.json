@@ -1,14 +1,14 @@
 {
   "unversionedId": "algemeen/sla",
   "id": "algemeen/sla",
-  "isDocsHomePage": false,
-  "title": "Reactiesnelheid",
+  "title": "sla",
   "description": "Prioriteiten",
   "source": "@site/docs/algemeen/sla.md",
   "sourceDirName": "algemeen",
   "slug": "/algemeen/sla",
   "permalink": "/docs/algemeen/sla",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/algemeen/sla.md",
+  "tags": [],
   "version": "current",
   "sidebarPosition": 3,
   "frontMatter": {
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Inloggen 🔐",
+    "title": "inloggen",
     "permalink": "/docs/algemeen/inloggen"
   },
   "next": {
-    "title": "Spoed",
+    "title": "spoed",
     "permalink": "/docs/algemeen/spoed"
   }
 }

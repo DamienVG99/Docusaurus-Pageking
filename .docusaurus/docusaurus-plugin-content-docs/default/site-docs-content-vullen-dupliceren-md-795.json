@@ -1,14 +1,14 @@
 {
   "unversionedId": "content vullen/dupliceren",
   "id": "content vullen/dupliceren",
-  "isDocsHomePage": false,
-  "title": "Dupliceren",
+  "title": "dupliceren",
   "description": "De Dupliceren functie vind je onder iedere post of pagina. Dit is handig voor bijvoorbeeld het plaatsen van soortgelijke vacatures.",
   "source": "@site/docs/content vullen/dupliceren.md",
   "sourceDirName": "content vullen",
   "slug": "/content vullen/dupliceren",
   "permalink": "/docs/content vullen/dupliceren",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/content vullen/dupliceren.md",
+  "tags": [],
   "version": "current",
   "sidebarPosition": 11,
   "frontMatter": {
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Permalink",
+    "title": "permalinks",
     "permalink": "/docs/content vullen/permalinks"
   },
   "next": {
-    "title": "Caching",
+    "title": "caching",
     "permalink": "/docs/content vullen/caching"
   }
 }

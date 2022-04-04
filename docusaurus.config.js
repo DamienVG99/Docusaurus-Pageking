@@ -26,6 +26,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           // Please change this to your repo.
           editUrl: 'https://github.com/DamienVG99/Docusaurus-Pageking',
         },
+        googleAnalytics: {
+          trackingID: 'G-8BJV0PJNDX',
+          // Optional fields.
+          anonymizeIP: true, // Should IPs be anonymized?
+        },
         blog: false,
       }),
     ],
@@ -34,11 +39,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      googleAnalytics: {
-        trackingID: 'G-8BJV0PJNDX',
-        // Optional fields.
-        anonymizeIP: true, // Should IPs be anonymized?
-      },
+      
       navbar: {
         title: 'Pageking Wiki',
         logo: {

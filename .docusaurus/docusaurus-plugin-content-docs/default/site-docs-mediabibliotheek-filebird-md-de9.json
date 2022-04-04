@@ -1,14 +1,14 @@
 {
   "unversionedId": "mediabibliotheek/filebird",
   "id": "mediabibliotheek/filebird",
-  "isDocsHomePage": false,
-  "title": "FileBird 🐦",
+  "title": "filebird",
   "description": "Een mogelijkheid is het installeren van FileBird. Hiermee kun je in je WordPress omgeving een mappenstructuur aanmaken voor je bestanden, afbeeldingen en videos.",
   "source": "@site/docs/mediabibliotheek/filebird.md",
   "sourceDirName": "mediabibliotheek",
   "slug": "/mediabibliotheek/filebird",
   "permalink": "/docs/mediabibliotheek/filebird",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/mediabibliotheek/filebird.md",
+  "tags": [],
   "version": "current",
   "sidebarPosition": 4,
   "frontMatter": {
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Afbeeldingen bewerken 🛠️",
+    "title": "media-aanpassen",
     "permalink": "/docs/mediabibliotheek/media-aanpassen"
   },
   "next": {
-    "title": "Comprimeren",
+    "title": "groot",
     "permalink": "/docs/mediabibliotheek/groot"
   }
 }

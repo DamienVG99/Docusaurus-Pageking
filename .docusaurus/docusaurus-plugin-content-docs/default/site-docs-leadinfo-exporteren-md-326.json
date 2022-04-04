@@ -1,7 +1,6 @@
 {
   "unversionedId": "leadinfo/exporteren",
   "id": "leadinfo/exporteren",
-  "isDocsHomePage": false,
   "title": "exporteren",
   "description": "",
   "source": "@site/docs/leadinfo/exporteren.md",
@@ -9,6 +8,7 @@
   "slug": "/leadinfo/exporteren",
   "permalink": "/docs/leadinfo/exporteren",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/leadinfo/exporteren.md",
+  "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",

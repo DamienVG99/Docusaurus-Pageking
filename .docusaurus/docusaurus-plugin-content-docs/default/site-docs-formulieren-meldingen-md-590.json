@@ -1,14 +1,14 @@
 {
   "unversionedId": "formulieren/meldingen",
   "id": "formulieren/meldingen",
-  "isDocsHomePage": false,
-  "title": "Meldingen",
+  "title": "meldingen",
   "description": "Als je in het formulier zit, heb je bovenaan de knop Instellingen. Als je hier met je muis overheen gaat, dan kun je hier kiezen voor Meldingen.",
   "source": "@site/docs/formulieren/meldingen.md",
   "sourceDirName": "formulieren",
   "slug": "/formulieren/meldingen",
   "permalink": "/docs/formulieren/meldingen",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/formulieren/meldingen.md",
+  "tags": [],
   "version": "current",
   "sidebarPosition": 2,
   "frontMatter": {
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Aanmaken en bewerken",
+    "title": "aanmaken",
     "permalink": "/docs/formulieren/aanmaken"
   },
   "next": {
-    "title": "Bevestigingen",
+    "title": "bevestigingen",
     "permalink": "/docs/formulieren/bevestigingen"
   }
 }

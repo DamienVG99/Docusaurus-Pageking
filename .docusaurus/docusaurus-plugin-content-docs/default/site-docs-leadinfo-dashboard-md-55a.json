@@ -1,7 +1,6 @@
 {
   "unversionedId": "leadinfo/dashboard",
   "id": "leadinfo/dashboard",
-  "isDocsHomePage": false,
   "title": "dashboard",
   "description": "",
   "source": "@site/docs/leadinfo/dashboard.md",
@@ -9,6 +8,7 @@
   "slug": "/leadinfo/dashboard",
   "permalink": "/docs/leadinfo/dashboard",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/leadinfo/dashboard.md",
+  "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",

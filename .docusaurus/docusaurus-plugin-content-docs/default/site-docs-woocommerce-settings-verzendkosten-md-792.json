@@ -1,7 +1,6 @@
 {
   "unversionedId": "woocommerce/settings/verzendkosten",
   "id": "woocommerce/settings/verzendkosten",
-  "isDocsHomePage": false,
   "title": "verzendkosten",
   "description": "",
   "source": "@site/docs/woocommerce/settings/verzendkosten.md",
@@ -9,6 +8,7 @@
   "slug": "/woocommerce/settings/verzendkosten",
   "permalink": "/docs/woocommerce/settings/verzendkosten",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/woocommerce/settings/verzendkosten.md",
+  "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",

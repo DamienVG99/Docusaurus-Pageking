@@ -1,14 +1,14 @@
 {
   "unversionedId": "livegang/livegang",
   "id": "livegang/livegang",
-  "isDocsHomePage": false,
   "title": "livegang",
   "description": "",
   "source": "@site/docs/livegang/livegang.md",
   "sourceDirName": "livegang",
-  "slug": "/livegang/livegang",
-  "permalink": "/docs/livegang/livegang",
+  "slug": "/livegang/",
+  "permalink": "/docs/livegang/",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/livegang/livegang.md",
+  "tags": [],
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {

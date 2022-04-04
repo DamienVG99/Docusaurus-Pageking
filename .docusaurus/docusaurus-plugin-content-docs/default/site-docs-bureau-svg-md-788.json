@@ -1,7 +1,6 @@
 {
   "unversionedId": "bureau/svg",
   "id": "bureau/svg",
-  "isDocsHomePage": false,
   "title": "SVG",
   "description": "",
   "source": "@site/docs/bureau/svg.md",
@@ -9,6 +8,7 @@
   "slug": "/bureau/svg",
   "permalink": "/docs/bureau/svg",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/bureau/svg.md",
+  "tags": [],
   "version": "current",
   "sidebarPosition": 3,
   "frontMatter": {

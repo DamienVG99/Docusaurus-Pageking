@@ -1,14 +1,14 @@
 {
   "unversionedId": "algemeen/spoed",
   "id": "algemeen/spoed",
-  "isDocsHomePage": false,
-  "title": "Spoed",
+  "title": "spoed",
   "description": "Stel je voor: Het is zaterdag en je website werkt niet. Of het is woensdagavond en je kunt niet meer bij je e-mail. Hoe kun je ons dan bereiken?",
   "source": "@site/docs/algemeen/spoed.md",
   "sourceDirName": "algemeen",
   "slug": "/algemeen/spoed",
   "permalink": "/docs/algemeen/spoed",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/algemeen/spoed.md",
+  "tags": [],
   "version": "current",
   "sidebarPosition": 4,
   "frontMatter": {
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Reactiesnelheid",
+    "title": "sla",
     "permalink": "/docs/algemeen/sla"
   },
   "next": {
-    "title": "Uitleg",
+    "title": "uitleg",
     "permalink": "/docs/content vullen/uitleg"
   }
 }

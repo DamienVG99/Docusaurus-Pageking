@@ -1,14 +1,14 @@
 {
   "unversionedId": "formulieren/beveiligingen",
   "id": "formulieren/beveiligingen",
-  "isDocsHomePage": false,
-  "title": "Beveiliging",
+  "title": "beveiligingen",
   "description": "Om ongewenste mail/Spam te voorkomen in je formulieren, heeft Gravity Forms beveligingen.",
   "source": "@site/docs/formulieren/beveiligingen.md",
   "sourceDirName": "formulieren",
   "slug": "/formulieren/beveiligingen",
   "permalink": "/docs/formulieren/beveiligingen",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/formulieren/beveiligingen.md",
+  "tags": [],
   "version": "current",
   "sidebarPosition": 4,
   "frontMatter": {
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Bevestigingen",
+    "title": "bevestigingen",
     "permalink": "/docs/formulieren/bevestigingen"
   },
   "next": {
-    "title": "Inzendingen",
+    "title": "inzendingen",
     "permalink": "/docs/formulieren/inzendingen"
   }
 }

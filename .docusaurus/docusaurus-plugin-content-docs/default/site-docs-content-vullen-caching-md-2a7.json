@@ -1,14 +1,14 @@
 {
   "unversionedId": "content vullen/caching",
   "id": "content vullen/caching",
-  "isDocsHomePage": false,
-  "title": "Caching",
+  "title": "caching",
   "description": "Het klinkt vaak vrij apart, een systeem op je server dat je website met wel 40% kan versnellen. Dit is waar Caching aan meewerkt. Hoe werkt het en hoe gebruiken wij dit op onze servers? Dat leggen we je in dit artikel uit.",
   "source": "@site/docs/content vullen/caching.md",
   "sourceDirName": "content vullen",
   "slug": "/content vullen/caching",
   "permalink": "/docs/content vullen/caching",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/content vullen/caching.md",
+  "tags": [],
   "version": "current",
   "sidebarPosition": 12,
   "frontMatter": {
@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Dupliceren",
+    "title": "dupliceren",
     "permalink": "/docs/content vullen/dupliceren"
   },
   "next": {

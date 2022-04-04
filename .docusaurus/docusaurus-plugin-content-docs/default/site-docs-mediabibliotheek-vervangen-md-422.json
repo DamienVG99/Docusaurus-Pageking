@@ -1,7 +1,6 @@
 {
   "unversionedId": "mediabibliotheek/vervangen",
   "id": "mediabibliotheek/vervangen",
-  "isDocsHomePage": false,
   "title": "vervangen",
   "description": "",
   "source": "@site/docs/mediabibliotheek/vervangen.md",
@@ -9,6 +8,7 @@
   "slug": "/mediabibliotheek/vervangen",
   "permalink": "/docs/mediabibliotheek/vervangen",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/mediabibliotheek/vervangen.md",
+  "tags": [],
   "version": "current",
   "sidebarPosition": 6,
   "frontMatter": {
@@ -20,7 +20,7 @@
     "permalink": "/docs/mediabibliotheek/svg"
   },
   "next": {
-    "title": "Aanmaken en bewerken",
+    "title": "aanmaken",
     "permalink": "/docs/formulieren/aanmaken"
   }
 }

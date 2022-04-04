@@ -1,14 +1,14 @@
 {
   "unversionedId": "mediabibliotheek/media-aanpassen",
   "id": "mediabibliotheek/media-aanpassen",
-  "isDocsHomePage": false,
-  "title": "Afbeeldingen bewerken 🛠️",
+  "title": "media-aanpassen",
   "description": "Afbeeldingen kun je makkelijk en snel aanpassen binnen WordPress! Het gebeurt natuurlijk vaker dat de media die je upload breder of hoger is dan de website toestaat in een bepaald blok en daardoor belangrijke delen van een foto worden afgesneden. Om de minder belangrijke onderdelen weg te snijden, kun je de bewerkingstool van WordPress gebruiken!",
   "source": "@site/docs/mediabibliotheek/media-aanpassen.md",
   "sourceDirName": "mediabibliotheek",
   "slug": "/mediabibliotheek/media-aanpassen",
   "permalink": "/docs/mediabibliotheek/media-aanpassen",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/mediabibliotheek/media-aanpassen.md",
+  "tags": [],
   "version": "current",
   "sidebarPosition": 3,
   "frontMatter": {
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Media tags",
+    "title": "media-tags",
     "permalink": "/docs/mediabibliotheek/media-tags"
   },
   "next": {
-    "title": "FileBird 🐦",
+    "title": "filebird",
     "permalink": "/docs/mediabibliotheek/filebird"
   }
 }

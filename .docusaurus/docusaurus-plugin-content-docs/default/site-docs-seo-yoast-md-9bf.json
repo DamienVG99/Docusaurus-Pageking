@@ -1,7 +1,6 @@
 {
   "unversionedId": "seo/yoast",
   "id": "seo/yoast",
-  "isDocsHomePage": false,
   "title": "yoast",
   "description": "",
   "source": "@site/docs/seo/yoast.md",
@@ -9,6 +8,7 @@
   "slug": "/seo/yoast",
   "permalink": "/docs/seo/yoast",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/seo/yoast.md",
+  "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",

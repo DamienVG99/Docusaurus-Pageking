@@ -1,14 +1,14 @@
 {
   "unversionedId": "content vullen/permalinks",
   "id": "content vullen/permalinks",
-  "isDocsHomePage": false,
-  "title": "Permalink",
+  "title": "permalinks",
   "description": "De Permalink is eigenlijk precies wat het zegt; Een permanente link naar een pagina op je website.",
   "source": "@site/docs/content vullen/permalinks.md",
   "sourceDirName": "content vullen",
   "slug": "/content vullen/permalinks",
   "permalink": "/docs/content vullen/permalinks",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/content vullen/permalinks.md",
+  "tags": [],
   "version": "current",
   "sidebarPosition": 10,
   "frontMatter": {
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Concept",
+    "title": "concept",
     "permalink": "/docs/content vullen/concept"
   },
   "next": {
-    "title": "Dupliceren",
+    "title": "dupliceren",
     "permalink": "/docs/content vullen/dupliceren"
   }
 }

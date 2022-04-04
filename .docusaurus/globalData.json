@@ -187,7 +187,7 @@
             },
             {
               "id": "livegang/livegang",
-              "path": "/docs/livegang/livegang",
+              "path": "/docs/livegang/",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -305,9 +305,18 @@
               "path": "/docs/woocommerce/variaties",
               "sidebar": "tutorialSidebar"
             }
-          ]
+          ],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "Welkom op onze Wiki!"
+              }
+            }
+          }
         }
-      ]
+      ],
+      "breadcrumbs": true
     }
   }
 }

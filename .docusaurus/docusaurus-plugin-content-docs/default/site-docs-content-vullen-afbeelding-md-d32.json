@@ -1,14 +1,14 @@
 {
   "unversionedId": "content vullen/afbeelding",
   "id": "content vullen/afbeelding",
-  "isDocsHomePage": false,
-  "title": "Afbeelding",
+  "title": "afbeelding",
   "description": "Uiteraard kun je in de WYSIWYG Editor afbeeldingen toevoegen, echter, op normale pagina's werkt dit op een andere manier.",
   "source": "@site/docs/content vullen/afbeelding.md",
   "sourceDirName": "content vullen",
   "slug": "/content vullen/afbeelding",
   "permalink": "/docs/content vullen/afbeelding",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/content vullen/afbeelding.md",
+  "tags": [],
   "version": "current",
   "sidebarPosition": 3,
   "frontMatter": {
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "WYSIWYG",
+    "title": "wysiwyg",
     "permalink": "/docs/content vullen/wysiwyg"
   },
   "next": {
-    "title": "Pagina Templates",
+    "title": "pagina_templates",
     "permalink": "/docs/content vullen/pagina_templates"
   }
 }

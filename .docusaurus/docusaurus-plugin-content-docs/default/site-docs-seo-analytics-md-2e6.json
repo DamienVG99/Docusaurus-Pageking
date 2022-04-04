@@ -1,7 +1,6 @@
 {
   "unversionedId": "seo/analytics",
   "id": "seo/analytics",
-  "isDocsHomePage": false,
   "title": "analytics",
   "description": "",
   "source": "@site/docs/seo/analytics.md",
@@ -9,6 +8,7 @@
   "slug": "/seo/analytics",
   "permalink": "/docs/seo/analytics",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/seo/analytics.md",
+  "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",

@@ -1,7 +1,6 @@
 {
   "unversionedId": "woocommerce/pdf",
   "id": "woocommerce/pdf",
-  "isDocsHomePage": false,
   "title": "pdf",
   "description": "",
   "source": "@site/docs/woocommerce/pdf.md",
@@ -9,6 +8,7 @@
   "slug": "/woocommerce/pdf",
   "permalink": "/docs/woocommerce/pdf",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/woocommerce/pdf.md",
+  "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",

@@ -1,7 +1,6 @@
 {
   "unversionedId": "tools/partners_documenten",
   "id": "tools/partners_documenten",
-  "isDocsHomePage": false,
   "title": "partners_documenten",
   "description": "",
   "source": "@site/docs/tools/partners_documenten.md",
@@ -9,6 +8,7 @@
   "slug": "/tools/partners_documenten",
   "permalink": "/docs/tools/partners_documenten",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/tools/partners_documenten.md",
+  "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",

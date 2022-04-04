@@ -1,14 +1,14 @@
 {
   "unversionedId": "formulieren/inzendingen",
   "id": "formulieren/inzendingen",
-  "isDocsHomePage": false,
-  "title": "Inzendingen",
+  "title": "inzendingen",
   "description": "Ieder formulier kan inzendingen ontvangen, welke je door middel van meldingen kunt ontvangen, of kunt inzien in de achterkant van jouw website. Ga hiervoor naar Inzendingen.",
   "source": "@site/docs/formulieren/inzendingen.md",
   "sourceDirName": "formulieren",
   "slug": "/formulieren/inzendingen",
   "permalink": "/docs/formulieren/inzendingen",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/formulieren/inzendingen.md",
+  "tags": [],
   "version": "current",
   "sidebarPosition": 5,
   "frontMatter": {
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Beveiliging",
+    "title": "beveiligingen",
     "permalink": "/docs/formulieren/beveiligingen"
   },
   "next": {
-    "title": "Formulieren gebruiken",
+    "title": "gebruiken",
     "permalink": "/docs/formulieren/gebruiken"
   }
 }

@@ -1,7 +1,6 @@
 {
   "unversionedId": "bureau/aanleveren",
   "id": "bureau/aanleveren",
-  "isDocsHomePage": false,
   "title": "Aanleveren design",
   "description": "",
   "source": "@site/docs/bureau/aanleveren.md",
@@ -9,6 +8,7 @@
   "slug": "/bureau/aanleveren",
   "permalink": "/docs/bureau/aanleveren",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/bureau/aanleveren.md",
+  "tags": [],
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
@@ -17,7 +17,7 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "livegang",
-    "permalink": "/docs/livegang/livegang"
+    "permalink": "/docs/livegang/"
   },
   "next": {
     "title": "Artboards",

@@ -1,7 +1,6 @@
 {
   "unversionedId": "intro",
   "id": "intro",
-  "isDocsHomePage": false,
   "title": "",
   "description": "De officiële Pageking Wiki is op dit moment in aanbouw. Mis je iets? Laat het dan weten via support@pageking.nl. We maken hier dan zo snel mogelijk een artikel over.",
   "source": "@site/docs/intro.md",
@@ -9,8 +8,8 @@
   "slug": "/intro",
   "permalink": "/docs/intro",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/intro.md",
+  "tags": [],
   "version": "current",
-  "sidebar_label": "Welkom op onze Wiki!",
   "sidebarPosition": 1,
   "frontMatter": {
     "sidebar_label": "Welkom op onze Wiki!",

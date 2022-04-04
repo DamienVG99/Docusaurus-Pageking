@@ -1,14 +1,14 @@
 {
   "unversionedId": "content vullen/uitleg",
   "id": "content vullen/uitleg",
-  "isDocsHomePage": false,
-  "title": "Uitleg",
+  "title": "uitleg",
   "description": "Het is zover; Je gaat de content vullen voor jullie website! In deze categorie neem ik je mee in een reis door het vullen van content. Vergeet vooral ook niet de items over de Mediabibliotheek en Formulieren te bekijken.",
   "source": "@site/docs/content vullen/uitleg.md",
   "sourceDirName": "content vullen",
   "slug": "/content vullen/uitleg",
   "permalink": "/docs/content vullen/uitleg",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/content vullen/uitleg.md",
+  "tags": [],
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Spoed",
+    "title": "spoed",
     "permalink": "/docs/algemeen/spoed"
   },
   "next": {
-    "title": "WYSIWYG",
+    "title": "wysiwyg",
     "permalink": "/docs/content vullen/wysiwyg"
   }
 }

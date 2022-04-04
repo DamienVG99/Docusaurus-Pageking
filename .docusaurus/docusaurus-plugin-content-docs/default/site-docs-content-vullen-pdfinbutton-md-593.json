@@ -1,14 +1,14 @@
 {
   "unversionedId": "content vullen/pdfinbutton",
   "id": "content vullen/pdfinbutton",
-  "isDocsHomePage": false,
-  "title": "PDF",
+  "title": "pdfinbutton",
   "description": "Het gebeurt vaak dat je aan een link of button een PDF bestand wilt koppelen. Deze tutorial brengt verschillende, eerder behandelde elementen samen om dit te bewerkstelligen.",
   "source": "@site/docs/content vullen/pdfinbutton.md",
   "sourceDirName": "content vullen",
   "slug": "/content vullen/pdfinbutton",
   "permalink": "/docs/content vullen/pdfinbutton",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/content vullen/pdfinbutton.md",
+  "tags": [],
   "version": "current",
   "sidebarPosition": 6,
   "frontMatter": {
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Post Types",
+    "title": "posttypes",
     "permalink": "/docs/content vullen/posttypes"
   },
   "next": {
-    "title": "Concept",
+    "title": "concept",
     "permalink": "/docs/content vullen/concept"
   }
 }

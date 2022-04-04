@@ -1,7 +1,6 @@
 {
   "unversionedId": "woocommerce/variaties",
   "id": "woocommerce/variaties",
-  "isDocsHomePage": false,
   "title": "variaties",
   "description": "",
   "source": "@site/docs/woocommerce/variaties.md",
@@ -9,6 +8,7 @@
   "slug": "/woocommerce/variaties",
   "permalink": "/docs/woocommerce/variaties",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/woocommerce/variaties.md",
+  "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",

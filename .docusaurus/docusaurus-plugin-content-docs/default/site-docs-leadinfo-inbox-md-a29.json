@@ -1,7 +1,6 @@
 {
   "unversionedId": "leadinfo/inbox",
   "id": "leadinfo/inbox",
-  "isDocsHomePage": false,
   "title": "inbox",
   "description": "",
   "source": "@site/docs/leadinfo/inbox.md",
@@ -9,6 +8,7 @@
   "slug": "/leadinfo/inbox",
   "permalink": "/docs/leadinfo/inbox",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/leadinfo/inbox.md",
+  "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",

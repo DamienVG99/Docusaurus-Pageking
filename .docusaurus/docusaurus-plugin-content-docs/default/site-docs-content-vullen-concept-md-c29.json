@@ -1,14 +1,14 @@
 {
   "unversionedId": "content vullen/concept",
   "id": "content vullen/concept",
-  "isDocsHomePage": false,
-  "title": "Concept",
+  "title": "concept",
   "description": "Vooraf je aangemaakte pagina inzien? Dat kan! Bij het aanmaken van een nieuwe pagina kun je kiezen voor Concept opslaan. Dit staat rechtsbovenin in de buurt van de opslaan knop.",
   "source": "@site/docs/content vullen/concept.md",
   "sourceDirName": "content vullen",
   "slug": "/content vullen/concept",
   "permalink": "/docs/content vullen/concept",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/content vullen/concept.md",
+  "tags": [],
   "version": "current",
   "sidebarPosition": 7,
   "frontMatter": {
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "PDF",
+    "title": "pdfinbutton",
     "permalink": "/docs/content vullen/pdfinbutton"
   },
   "next": {
-    "title": "Permalink",
+    "title": "permalinks",
     "permalink": "/docs/content vullen/permalinks"
   }
 }

@@ -1,7 +1,6 @@
 {
   "unversionedId": "woocommerce/settings/mailinstellingen",
   "id": "woocommerce/settings/mailinstellingen",
-  "isDocsHomePage": false,
   "title": "mailinstellingen",
   "description": "",
   "source": "@site/docs/woocommerce/settings/mailinstellingen.md",
@@ -9,6 +8,7 @@
   "slug": "/woocommerce/settings/mailinstellingen",
   "permalink": "/docs/woocommerce/settings/mailinstellingen",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/woocommerce/settings/mailinstellingen.md",
+  "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",

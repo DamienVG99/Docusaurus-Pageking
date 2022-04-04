@@ -2,442 +2,802 @@
   "pluginId": "default",
   "version": "current",
   "label": "Next",
+  "banner": null,
+  "badge": false,
+  "className": "docs-version-current",
   "isLast": true,
   "docsSidebars": {
     "tutorialSidebar": [
       {
         "type": "link",
         "label": "Welkom op onze Wiki!",
-        "href": "/docs/intro"
+        "href": "/docs/intro",
+        "docId": "intro"
       },
       {
         "type": "category",
         "label": "Algemeen",
+        "collapsible": true,
+        "collapsed": true,
         "items": [
           {
             "type": "link",
             "label": "Welkom!",
-            "href": "/docs/algemeen/gefeliciteerd"
+            "href": "/docs/algemeen/gefeliciteerd",
+            "docId": "algemeen/gefeliciteerd"
           },
           {
             "type": "link",
-            "label": "Inloggen 🔐",
-            "href": "/docs/algemeen/inloggen"
+            "label": "inloggen",
+            "href": "/docs/algemeen/inloggen",
+            "docId": "algemeen/inloggen"
           },
           {
             "type": "link",
-            "label": "Reactiesnelheid",
-            "href": "/docs/algemeen/sla"
+            "label": "sla",
+            "href": "/docs/algemeen/sla",
+            "docId": "algemeen/sla"
           },
           {
             "type": "link",
-            "label": "Spoed",
-            "href": "/docs/algemeen/spoed"
+            "label": "spoed",
+            "href": "/docs/algemeen/spoed",
+            "docId": "algemeen/spoed"
           }
-        ],
-        "collapsed": true
+        ]
       },
       {
         "type": "category",
         "label": "Content vullen",
+        "collapsible": true,
+        "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "Uitleg",
-            "href": "/docs/content vullen/uitleg"
+            "label": "uitleg",
+            "href": "/docs/content vullen/uitleg",
+            "docId": "content vullen/uitleg"
           },
           {
             "type": "link",
-            "label": "WYSIWYG",
-            "href": "/docs/content vullen/wysiwyg"
+            "label": "wysiwyg",
+            "href": "/docs/content vullen/wysiwyg",
+            "docId": "content vullen/wysiwyg"
           },
           {
             "type": "link",
-            "label": "Afbeelding",
-            "href": "/docs/content vullen/afbeelding"
+            "label": "afbeelding",
+            "href": "/docs/content vullen/afbeelding",
+            "docId": "content vullen/afbeelding"
           },
           {
             "type": "link",
-            "label": "Pagina Templates",
-            "href": "/docs/content vullen/pagina_templates"
+            "label": "pagina_templates",
+            "href": "/docs/content vullen/pagina_templates",
+            "docId": "content vullen/pagina_templates"
           },
           {
             "type": "link",
-            "label": "Post Types",
-            "href": "/docs/content vullen/posttypes"
+            "label": "posttypes",
+            "href": "/docs/content vullen/posttypes",
+            "docId": "content vullen/posttypes"
           },
           {
             "type": "link",
-            "label": "PDF",
-            "href": "/docs/content vullen/pdfinbutton"
+            "label": "pdfinbutton",
+            "href": "/docs/content vullen/pdfinbutton",
+            "docId": "content vullen/pdfinbutton"
           },
           {
             "type": "link",
-            "label": "Concept",
-            "href": "/docs/content vullen/concept"
+            "label": "concept",
+            "href": "/docs/content vullen/concept",
+            "docId": "content vullen/concept"
           },
           {
             "type": "link",
-            "label": "Permalink",
-            "href": "/docs/content vullen/permalinks"
+            "label": "permalinks",
+            "href": "/docs/content vullen/permalinks",
+            "docId": "content vullen/permalinks"
           },
           {
             "type": "link",
-            "label": "Dupliceren",
-            "href": "/docs/content vullen/dupliceren"
+            "label": "dupliceren",
+            "href": "/docs/content vullen/dupliceren",
+            "docId": "content vullen/dupliceren"
           },
           {
             "type": "link",
-            "label": "Caching",
-            "href": "/docs/content vullen/caching"
+            "label": "caching",
+            "href": "/docs/content vullen/caching",
+            "docId": "content vullen/caching"
           },
           {
             "type": "link",
             "label": "Uitgelichte afbeelding",
-            "href": "/docs/content vullen/uitgelichte_afbeelding"
+            "href": "/docs/content vullen/uitgelichte_afbeelding",
+            "docId": "content vullen/uitgelichte_afbeelding"
           }
-        ],
-        "collapsed": true
+        ]
       },
       {
         "type": "category",
         "label": "Mediabibliotheek",
+        "collapsible": true,
+        "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "Mediabibliotheek 📸",
-            "href": "/docs/mediabibliotheek/media-uploaden"
+            "label": "media-uploaden",
+            "href": "/docs/mediabibliotheek/media-uploaden",
+            "docId": "mediabibliotheek/media-uploaden"
           },
           {
             "type": "link",
-            "label": "Media tags",
-            "href": "/docs/mediabibliotheek/media-tags"
+            "label": "media-tags",
+            "href": "/docs/mediabibliotheek/media-tags",
+            "docId": "mediabibliotheek/media-tags"
           },
           {
             "type": "link",
-            "label": "Afbeeldingen bewerken 🛠️",
-            "href": "/docs/mediabibliotheek/media-aanpassen"
+            "label": "media-aanpassen",
+            "href": "/docs/mediabibliotheek/media-aanpassen",
+            "docId": "mediabibliotheek/media-aanpassen"
           },
           {
             "type": "link",
-            "label": "FileBird 🐦",
-            "href": "/docs/mediabibliotheek/filebird"
+            "label": "filebird",
+            "href": "/docs/mediabibliotheek/filebird",
+            "docId": "mediabibliotheek/filebird"
           },
           {
             "type": "link",
-            "label": "Comprimeren",
-            "href": "/docs/mediabibliotheek/groot"
+            "label": "groot",
+            "href": "/docs/mediabibliotheek/groot",
+            "docId": "mediabibliotheek/groot"
           },
           {
             "type": "link",
             "label": "svg",
-            "href": "/docs/mediabibliotheek/svg"
+            "href": "/docs/mediabibliotheek/svg",
+            "docId": "mediabibliotheek/svg"
           },
           {
             "type": "link",
             "label": "vervangen",
-            "href": "/docs/mediabibliotheek/vervangen"
+            "href": "/docs/mediabibliotheek/vervangen",
+            "docId": "mediabibliotheek/vervangen"
           }
-        ],
-        "collapsed": true
+        ]
       },
       {
         "type": "category",
         "label": "Formulieren",
+        "collapsible": true,
+        "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "Aanmaken en bewerken",
-            "href": "/docs/formulieren/aanmaken"
+            "label": "aanmaken",
+            "href": "/docs/formulieren/aanmaken",
+            "docId": "formulieren/aanmaken"
           },
           {
             "type": "link",
-            "label": "Meldingen",
-            "href": "/docs/formulieren/meldingen"
+            "label": "meldingen",
+            "href": "/docs/formulieren/meldingen",
+            "docId": "formulieren/meldingen"
           },
           {
             "type": "link",
-            "label": "Bevestigingen",
-            "href": "/docs/formulieren/bevestigingen"
+            "label": "bevestigingen",
+            "href": "/docs/formulieren/bevestigingen",
+            "docId": "formulieren/bevestigingen"
           },
           {
             "type": "link",
-            "label": "Beveiliging",
-            "href": "/docs/formulieren/beveiligingen"
+            "label": "beveiligingen",
+            "href": "/docs/formulieren/beveiligingen",
+            "docId": "formulieren/beveiligingen"
           },
           {
             "type": "link",
-            "label": "Inzendingen",
-            "href": "/docs/formulieren/inzendingen"
+            "label": "inzendingen",
+            "href": "/docs/formulieren/inzendingen",
+            "docId": "formulieren/inzendingen"
           },
           {
             "type": "link",
-            "label": "Formulieren gebruiken",
-            "href": "/docs/formulieren/gebruiken"
+            "label": "gebruiken",
+            "href": "/docs/formulieren/gebruiken",
+            "docId": "formulieren/gebruiken"
           },
           {
             "type": "link",
             "label": "conditioneel",
-            "href": "/docs/formulieren/conditioneel"
+            "href": "/docs/formulieren/conditioneel",
+            "docId": "formulieren/conditioneel"
           },
           {
             "type": "link",
             "label": "mailchimp",
-            "href": "/docs/formulieren/mailchimp"
+            "href": "/docs/formulieren/mailchimp",
+            "docId": "formulieren/mailchimp"
           },
           {
             "type": "link",
             "label": "mails",
-            "href": "/docs/formulieren/mails"
+            "href": "/docs/formulieren/mails",
+            "docId": "formulieren/mails"
           }
-        ],
-        "collapsed": true
+        ]
       },
       {
         "type": "category",
         "label": "Woocommerce",
+        "collapsible": true,
+        "collapsed": true,
         "items": [
           {
             "type": "category",
             "label": "Settings",
+            "collapsible": true,
+            "collapsed": true,
             "items": [
               {
                 "type": "link",
                 "label": "belasting",
-                "href": "/docs/woocommerce/settings/belasting"
+                "href": "/docs/woocommerce/settings/belasting",
+                "docId": "woocommerce/settings/belasting"
               },
               {
                 "type": "link",
                 "label": "mailinstellingen",
-                "href": "/docs/woocommerce/settings/mailinstellingen"
+                "href": "/docs/woocommerce/settings/mailinstellingen",
+                "docId": "woocommerce/settings/mailinstellingen"
               },
               {
                 "type": "link",
                 "label": "mailtemplates",
-                "href": "/docs/woocommerce/settings/mailtemplates"
+                "href": "/docs/woocommerce/settings/mailtemplates",
+                "docId": "woocommerce/settings/mailtemplates"
               },
               {
                 "type": "link",
                 "label": "verzendkosten",
-                "href": "/docs/woocommerce/settings/verzendkosten"
+                "href": "/docs/woocommerce/settings/verzendkosten",
+                "docId": "woocommerce/settings/verzendkosten"
               }
-            ],
-            "collapsed": true
+            ]
           },
           {
             "type": "link",
             "label": "aanmaken",
-            "href": "/docs/woocommerce/aanmaken"
+            "href": "/docs/woocommerce/aanmaken",
+            "docId": "woocommerce/aanmaken"
           },
           {
             "type": "link",
             "label": "pdf",
-            "href": "/docs/woocommerce/pdf"
+            "href": "/docs/woocommerce/pdf",
+            "docId": "woocommerce/pdf"
           },
           {
             "type": "link",
             "label": "variaties",
-            "href": "/docs/woocommerce/variaties"
+            "href": "/docs/woocommerce/variaties",
+            "docId": "woocommerce/variaties"
           }
-        ],
-        "collapsed": true
+        ]
       },
       {
         "type": "category",
         "label": "SEO",
+        "collapsible": true,
+        "collapsed": true,
         "items": [
           {
             "type": "link",
             "label": "analytics",
-            "href": "/docs/seo/analytics"
+            "href": "/docs/seo/analytics",
+            "docId": "seo/analytics"
           },
           {
             "type": "link",
             "label": "rankmath",
-            "href": "/docs/seo/rankmath"
+            "href": "/docs/seo/rankmath",
+            "docId": "seo/rankmath"
           },
           {
             "type": "link",
             "label": "yoast",
-            "href": "/docs/seo/yoast"
+            "href": "/docs/seo/yoast",
+            "docId": "seo/yoast"
           }
-        ],
-        "collapsed": true
+        ]
       },
       {
         "type": "category",
         "label": "Tools",
+        "collapsible": true,
+        "collapsed": true,
         "items": [
           {
             "type": "link",
             "label": "comprimerenafbeelding",
-            "href": "/docs/tools/comprimerenafbeelding"
+            "href": "/docs/tools/comprimerenafbeelding",
+            "docId": "tools/comprimerenafbeelding"
           },
           {
             "type": "link",
             "label": "leadinfo",
-            "href": "/docs/tools/leadinfo"
+            "href": "/docs/tools/leadinfo",
+            "docId": "tools/leadinfo"
           },
           {
             "type": "link",
             "label": "partners_documenten",
-            "href": "/docs/tools/partners_documenten"
+            "href": "/docs/tools/partners_documenten",
+            "docId": "tools/partners_documenten"
           },
           {
             "type": "link",
             "label": "privacypolicy",
-            "href": "/docs/tools/privacypolicy"
+            "href": "/docs/tools/privacypolicy",
+            "docId": "tools/privacypolicy"
           },
           {
             "type": "link",
             "label": "unsplash",
-            "href": "/docs/tools/unsplash"
+            "href": "/docs/tools/unsplash",
+            "docId": "tools/unsplash"
           }
-        ],
-        "collapsed": true
+        ]
       },
       {
         "type": "category",
         "label": "Leadinfo",
+        "collapsible": true,
+        "collapsed": true,
         "items": [
           {
             "type": "link",
             "label": "dashboard",
-            "href": "/docs/leadinfo/dashboard"
+            "href": "/docs/leadinfo/dashboard",
+            "docId": "leadinfo/dashboard"
           },
           {
             "type": "link",
             "label": "exporteren",
-            "href": "/docs/leadinfo/exporteren"
+            "href": "/docs/leadinfo/exporteren",
+            "docId": "leadinfo/exporteren"
           },
           {
             "type": "link",
             "label": "inbox",
-            "href": "/docs/leadinfo/inbox"
+            "href": "/docs/leadinfo/inbox",
+            "docId": "leadinfo/inbox"
           },
           {
             "type": "link",
             "label": "triggers",
-            "href": "/docs/leadinfo/triggers"
+            "href": "/docs/leadinfo/triggers",
+            "docId": "leadinfo/triggers"
           }
-        ],
-        "collapsed": true
+        ]
       },
       {
-        "type": "category",
+        "type": "link",
         "label": "Livegang",
-        "items": [
-          {
-            "type": "link",
-            "label": "livegang",
-            "href": "/docs/livegang/livegang"
-          }
-        ],
-        "collapsed": true
+        "href": "/docs/livegang/",
+        "docId": "livegang/livegang"
       },
       {
         "type": "category",
         "label": "Voor bureau's",
+        "collapsible": true,
+        "collapsed": true,
         "items": [
           {
             "type": "link",
             "label": "Aanleveren design",
-            "href": "/docs/bureau/aanleveren"
+            "href": "/docs/bureau/aanleveren",
+            "docId": "bureau/aanleveren"
           },
           {
             "type": "link",
             "label": "Artboards",
-            "href": "/docs/bureau/artboard"
+            "href": "/docs/bureau/artboard",
+            "docId": "bureau/artboard"
           },
           {
             "type": "link",
             "label": "SVG",
-            "href": "/docs/bureau/svg"
+            "href": "/docs/bureau/svg",
+            "docId": "bureau/svg"
           },
           {
             "type": "link",
             "label": "JSON",
-            "href": "/docs/bureau/json"
+            "href": "/docs/bureau/json",
+            "docId": "bureau/json"
           },
           {
             "type": "link",
             "label": "Voorkeuren",
-            "href": "/docs/bureau/voorkeuren"
+            "href": "/docs/bureau/voorkeuren",
+            "docId": "bureau/voorkeuren"
           },
           {
             "type": "link",
             "label": "Do's - Dont's",
-            "href": "/docs/bureau/dodont"
+            "href": "/docs/bureau/dodont",
+            "docId": "bureau/dodont"
           }
-        ],
-        "collapsed": true
+        ]
       },
       {
         "type": "link",
-        "label": "That's it! 🥳",
-        "href": "/docs/thatsit"
+        "label": "thatsit",
+        "href": "/docs/thatsit",
+        "docId": "thatsit"
       }
     ]
   },
-  "permalinkToSidebar": {
-    "/docs/algemeen/gefeliciteerd": "tutorialSidebar",
-    "/docs/algemeen/inloggen": "tutorialSidebar",
-    "/docs/algemeen/sla": "tutorialSidebar",
-    "/docs/algemeen/spoed": "tutorialSidebar",
-    "/docs/bureau/aanleveren": "tutorialSidebar",
-    "/docs/bureau/artboard": "tutorialSidebar",
-    "/docs/bureau/dodont": "tutorialSidebar",
-    "/docs/bureau/json": "tutorialSidebar",
-    "/docs/bureau/svg": "tutorialSidebar",
-    "/docs/bureau/voorkeuren": "tutorialSidebar",
-    "/docs/content vullen/afbeelding": "tutorialSidebar",
-    "/docs/content vullen/caching": "tutorialSidebar",
-    "/docs/content vullen/concept": "tutorialSidebar",
-    "/docs/content vullen/dupliceren": "tutorialSidebar",
-    "/docs/content vullen/pagina_templates": "tutorialSidebar",
-    "/docs/content vullen/pdfinbutton": "tutorialSidebar",
-    "/docs/content vullen/permalinks": "tutorialSidebar",
-    "/docs/content vullen/posttypes": "tutorialSidebar",
-    "/docs/content vullen/uitgelichte_afbeelding": "tutorialSidebar",
-    "/docs/content vullen/uitleg": "tutorialSidebar",
-    "/docs/content vullen/wysiwyg": "tutorialSidebar",
-    "/docs/formulieren/aanmaken": "tutorialSidebar",
-    "/docs/formulieren/beveiligingen": "tutorialSidebar",
-    "/docs/formulieren/bevestigingen": "tutorialSidebar",
-    "/docs/formulieren/conditioneel": "tutorialSidebar",
-    "/docs/formulieren/gebruiken": "tutorialSidebar",
-    "/docs/formulieren/inzendingen": "tutorialSidebar",
-    "/docs/formulieren/mailchimp": "tutorialSidebar",
-    "/docs/formulieren/mails": "tutorialSidebar",
-    "/docs/formulieren/meldingen": "tutorialSidebar",
-    "/docs/intro": "tutorialSidebar",
-    "/docs/leadinfo/dashboard": "tutorialSidebar",
-    "/docs/leadinfo/exporteren": "tutorialSidebar",
-    "/docs/leadinfo/inbox": "tutorialSidebar",
-    "/docs/leadinfo/triggers": "tutorialSidebar",
-    "/docs/livegang/livegang": "tutorialSidebar",
-    "/docs/mediabibliotheek/filebird": "tutorialSidebar",
-    "/docs/mediabibliotheek/groot": "tutorialSidebar",
-    "/docs/mediabibliotheek/media-aanpassen": "tutorialSidebar",
-    "/docs/mediabibliotheek/media-tags": "tutorialSidebar",
-    "/docs/mediabibliotheek/media-uploaden": "tutorialSidebar",
-    "/docs/mediabibliotheek/svg": "tutorialSidebar",
-    "/docs/mediabibliotheek/vervangen": "tutorialSidebar",
-    "/docs/seo/analytics": "tutorialSidebar",
-    "/docs/seo/rankmath": "tutorialSidebar",
-    "/docs/seo/yoast": "tutorialSidebar",
-    "/docs/thatsit": "tutorialSidebar",
-    "/docs/tools/comprimerenafbeelding": "tutorialSidebar",
-    "/docs/tools/leadinfo": "tutorialSidebar",
-    "/docs/tools/partners_documenten": "tutorialSidebar",
-    "/docs/tools/privacypolicy": "tutorialSidebar",
-    "/docs/tools/unsplash": "tutorialSidebar",
-    "/docs/woocommerce/aanmaken": "tutorialSidebar",
-    "/docs/woocommerce/pdf": "tutorialSidebar",
-    "/docs/woocommerce/settings/belasting": "tutorialSidebar",
-    "/docs/woocommerce/settings/mailinstellingen": "tutorialSidebar",
-    "/docs/woocommerce/settings/mailtemplates": "tutorialSidebar",
-    "/docs/woocommerce/settings/verzendkosten": "tutorialSidebar",
-    "/docs/woocommerce/variaties": "tutorialSidebar"
+  "docs": {
+    "algemeen/gefeliciteerd": {
+      "id": "algemeen/gefeliciteerd",
+      "title": "Welkom!",
+      "description": "We heten je van harte welkom op onze Wiki. In de linkerbalk kun je kiezen voor het onderwerp waar je meer over wilt weten. Als je vragen hebt, laat het dan weten via support@pageking.nl of telefonisch via 076-7002582",
+      "sidebar": "tutorialSidebar"
+    },
+    "algemeen/inloggen": {
+      "id": "algemeen/inloggen",
+      "title": "inloggen",
+      "description": "Het prille begin.",
+      "sidebar": "tutorialSidebar"
+    },
+    "algemeen/sla": {
+      "id": "algemeen/sla",
+      "title": "sla",
+      "description": "Prioriteiten",
+      "sidebar": "tutorialSidebar"
+    },
+    "algemeen/spoed": {
+      "id": "algemeen/spoed",
+      "title": "spoed",
+      "description": "Stel je voor: Het is zaterdag en je website werkt niet. Of het is woensdagavond en je kunt niet meer bij je e-mail. Hoe kun je ons dan bereiken?",
+      "sidebar": "tutorialSidebar"
+    },
+    "bureau/aanleveren": {
+      "id": "bureau/aanleveren",
+      "title": "Aanleveren design",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "bureau/artboard": {
+      "id": "bureau/artboard",
+      "title": "Artboards",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "bureau/dodont": {
+      "id": "bureau/dodont",
+      "title": "Do's - Dont's",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "bureau/json": {
+      "id": "bureau/json",
+      "title": "JSON",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "bureau/svg": {
+      "id": "bureau/svg",
+      "title": "SVG",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "bureau/voorkeuren": {
+      "id": "bureau/voorkeuren",
+      "title": "Voorkeuren",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "content vullen/afbeelding": {
+      "id": "content vullen/afbeelding",
+      "title": "afbeelding",
+      "description": "Uiteraard kun je in de WYSIWYG Editor afbeeldingen toevoegen, echter, op normale pagina's werkt dit op een andere manier.",
+      "sidebar": "tutorialSidebar"
+    },
+    "content vullen/caching": {
+      "id": "content vullen/caching",
+      "title": "caching",
+      "description": "Het klinkt vaak vrij apart, een systeem op je server dat je website met wel 40% kan versnellen. Dit is waar Caching aan meewerkt. Hoe werkt het en hoe gebruiken wij dit op onze servers? Dat leggen we je in dit artikel uit.",
+      "sidebar": "tutorialSidebar"
+    },
+    "content vullen/concept": {
+      "id": "content vullen/concept",
+      "title": "concept",
+      "description": "Vooraf je aangemaakte pagina inzien? Dat kan! Bij het aanmaken van een nieuwe pagina kun je kiezen voor Concept opslaan. Dit staat rechtsbovenin in de buurt van de opslaan knop.",
+      "sidebar": "tutorialSidebar"
+    },
+    "content vullen/dupliceren": {
+      "id": "content vullen/dupliceren",
+      "title": "dupliceren",
+      "description": "De Dupliceren functie vind je onder iedere post of pagina. Dit is handig voor bijvoorbeeld het plaatsen van soortgelijke vacatures.",
+      "sidebar": "tutorialSidebar"
+    },
+    "content vullen/pagina_templates": {
+      "id": "content vullen/pagina_templates",
+      "title": "pagina_templates",
+      "description": "@Wouter",
+      "sidebar": "tutorialSidebar"
+    },
+    "content vullen/pdfinbutton": {
+      "id": "content vullen/pdfinbutton",
+      "title": "pdfinbutton",
+      "description": "Het gebeurt vaak dat je aan een link of button een PDF bestand wilt koppelen. Deze tutorial brengt verschillende, eerder behandelde elementen samen om dit te bewerkstelligen.",
+      "sidebar": "tutorialSidebar"
+    },
+    "content vullen/permalinks": {
+      "id": "content vullen/permalinks",
+      "title": "permalinks",
+      "description": "De Permalink is eigenlijk precies wat het zegt; Een permanente link naar een pagina op je website.",
+      "sidebar": "tutorialSidebar"
+    },
+    "content vullen/posttypes": {
+      "id": "content vullen/posttypes",
+      "title": "posttypes",
+      "description": "In een standaard Pageking website, vind je een aantal \"Post Types\". Dit zijn de items, meestal aangeduid met een punaise. Dit zijn ook de Actualiteiten, met de wereldbol.",
+      "sidebar": "tutorialSidebar"
+    },
+    "content vullen/uitgelichte_afbeelding": {
+      "id": "content vullen/uitgelichte_afbeelding",
+      "title": "Uitgelichte afbeelding",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "content vullen/uitleg": {
+      "id": "content vullen/uitleg",
+      "title": "uitleg",
+      "description": "Het is zover; Je gaat de content vullen voor jullie website! In deze categorie neem ik je mee in een reis door het vullen van content. Vergeet vooral ook niet de items over de Mediabibliotheek en Formulieren te bekijken.",
+      "sidebar": "tutorialSidebar"
+    },
+    "content vullen/wysiwyg": {
+      "id": "content vullen/wysiwyg",
+      "title": "wysiwyg",
+      "description": "De \"What you see is what you get\" Editor is een krachtige alles in 1 tekst editor voor WordPress. In deze tutorial leggen we je alle functies uit van deze editor.",
+      "sidebar": "tutorialSidebar"
+    },
+    "formulieren/aanmaken": {
+      "id": "formulieren/aanmaken",
+      "title": "aanmaken",
+      "description": "In dit artikel leiden we je door het proces van het aanmaken van een Formulier via Gravity Forms. Dit is de standaard plug-in die wij voor je klaarzetten.",
+      "sidebar": "tutorialSidebar"
+    },
+    "formulieren/beveiligingen": {
+      "id": "formulieren/beveiligingen",
+      "title": "beveiligingen",
+      "description": "Om ongewenste mail/Spam te voorkomen in je formulieren, heeft Gravity Forms beveligingen.",
+      "sidebar": "tutorialSidebar"
+    },
+    "formulieren/bevestigingen": {
+      "id": "formulieren/bevestigingen",
+      "title": "bevestigingen",
+      "description": "Als je in het formulier zit, heb je bovenaan de knop Instellingen. Als je hier met je muis overheen gaat, dan kun je hier kiezen voor Bevestigingen.",
+      "sidebar": "tutorialSidebar"
+    },
+    "formulieren/conditioneel": {
+      "id": "formulieren/conditioneel",
+      "title": "conditioneel",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "formulieren/gebruiken": {
+      "id": "formulieren/gebruiken",
+      "title": "gebruiken",
+      "description": "Dan het laatste puntje over formulieren: hoe gebruik je ze op je website?",
+      "sidebar": "tutorialSidebar"
+    },
+    "formulieren/inzendingen": {
+      "id": "formulieren/inzendingen",
+      "title": "inzendingen",
+      "description": "Ieder formulier kan inzendingen ontvangen, welke je door middel van meldingen kunt ontvangen, of kunt inzien in de achterkant van jouw website. Ga hiervoor naar Inzendingen.",
+      "sidebar": "tutorialSidebar"
+    },
+    "formulieren/mailchimp": {
+      "id": "formulieren/mailchimp",
+      "title": "mailchimp",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "formulieren/mails": {
+      "id": "formulieren/mails",
+      "title": "mails",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "formulieren/meldingen": {
+      "id": "formulieren/meldingen",
+      "title": "meldingen",
+      "description": "Als je in het formulier zit, heb je bovenaan de knop Instellingen. Als je hier met je muis overheen gaat, dan kun je hier kiezen voor Meldingen.",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "",
+      "description": "De officiële Pageking Wiki is op dit moment in aanbouw. Mis je iets? Laat het dan weten via support@pageking.nl. We maken hier dan zo snel mogelijk een artikel over.",
+      "sidebar": "tutorialSidebar"
+    },
+    "leadinfo/dashboard": {
+      "id": "leadinfo/dashboard",
+      "title": "dashboard",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "leadinfo/exporteren": {
+      "id": "leadinfo/exporteren",
+      "title": "exporteren",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "leadinfo/inbox": {
+      "id": "leadinfo/inbox",
+      "title": "inbox",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "leadinfo/triggers": {
+      "id": "leadinfo/triggers",
+      "title": "triggers",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "livegang/livegang": {
+      "id": "livegang/livegang",
+      "title": "livegang",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "mediabibliotheek/filebird": {
+      "id": "mediabibliotheek/filebird",
+      "title": "filebird",
+      "description": "Een mogelijkheid is het installeren van FileBird. Hiermee kun je in je WordPress omgeving een mappenstructuur aanmaken voor je bestanden, afbeeldingen en videos.",
+      "sidebar": "tutorialSidebar"
+    },
+    "mediabibliotheek/groot": {
+      "id": "mediabibliotheek/groot",
+      "title": "groot",
+      "description": "Wij raden aan om niet te grote bestanden te uploaden. Dit met de rede dat het sitevertragend werkt.",
+      "sidebar": "tutorialSidebar"
+    },
+    "mediabibliotheek/media-aanpassen": {
+      "id": "mediabibliotheek/media-aanpassen",
+      "title": "media-aanpassen",
+      "description": "Afbeeldingen kun je makkelijk en snel aanpassen binnen WordPress! Het gebeurt natuurlijk vaker dat de media die je upload breder of hoger is dan de website toestaat in een bepaald blok en daardoor belangrijke delen van een foto worden afgesneden. Om de minder belangrijke onderdelen weg te snijden, kun je de bewerkingstool van WordPress gebruiken!",
+      "sidebar": "tutorialSidebar"
+    },
+    "mediabibliotheek/media-tags": {
+      "id": "mediabibliotheek/media-tags",
+      "title": "media-tags",
+      "description": "In de mediabibliotheek kun je de afbeelding, video of het bestand openen door erop te drukken. Je krijgt de foto in het groot te zien en aan de rechterkant zie je een aantal invulvelden staan.",
+      "sidebar": "tutorialSidebar"
+    },
+    "mediabibliotheek/media-uploaden": {
+      "id": "mediabibliotheek/media-uploaden",
+      "title": "media-uploaden",
+      "description": "De mediabibliotheek is in de basis de plek waar je je fotos, videos en bestanden kunt uploaden om te gebruiken op je website.",
+      "sidebar": "tutorialSidebar"
+    },
+    "mediabibliotheek/svg": {
+      "id": "mediabibliotheek/svg",
+      "title": "svg",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "mediabibliotheek/vervangen": {
+      "id": "mediabibliotheek/vervangen",
+      "title": "vervangen",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "seo/analytics": {
+      "id": "seo/analytics",
+      "title": "analytics",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "seo/rankmath": {
+      "id": "seo/rankmath",
+      "title": "rankmath",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "seo/yoast": {
+      "id": "seo/yoast",
+      "title": "yoast",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "thatsit": {
+      "id": "thatsit",
+      "title": "thatsit",
+      "description": "We wensen je veel plezier met je nieuwe website! Heb je vragen? Je kan altijd contact met ons opnemen. Tussen 0800 via telefoonnummer 076 700 2582 of 24 uur per dag via support@pageking.nl!",
+      "sidebar": "tutorialSidebar"
+    },
+    "tools/comprimerenafbeelding": {
+      "id": "tools/comprimerenafbeelding",
+      "title": "comprimerenafbeelding",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "tools/leadinfo": {
+      "id": "tools/leadinfo",
+      "title": "leadinfo",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "tools/partners_documenten": {
+      "id": "tools/partners_documenten",
+      "title": "partners_documenten",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "tools/privacypolicy": {
+      "id": "tools/privacypolicy",
+      "title": "privacypolicy",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "tools/unsplash": {
+      "id": "tools/unsplash",
+      "title": "unsplash",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "woocommerce/aanmaken": {
+      "id": "woocommerce/aanmaken",
+      "title": "aanmaken",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "woocommerce/pdf": {
+      "id": "woocommerce/pdf",
+      "title": "pdf",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "woocommerce/settings/belasting": {
+      "id": "woocommerce/settings/belasting",
+      "title": "belasting",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "woocommerce/settings/mailinstellingen": {
+      "id": "woocommerce/settings/mailinstellingen",
+      "title": "mailinstellingen",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "woocommerce/settings/mailtemplates": {
+      "id": "woocommerce/settings/mailtemplates",
+      "title": "mailtemplates",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "woocommerce/settings/verzendkosten": {
+      "id": "woocommerce/settings/verzendkosten",
+      "title": "verzendkosten",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "woocommerce/variaties": {
+      "id": "woocommerce/variaties",
+      "title": "variaties",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    }
   }
 }

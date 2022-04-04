@@ -1,7 +1,6 @@
 {
   "unversionedId": "bureau/dodont",
   "id": "bureau/dodont",
-  "isDocsHomePage": false,
   "title": "Do's - Dont's",
   "description": "",
   "source": "@site/docs/bureau/dodont.md",
@@ -9,6 +8,7 @@
   "slug": "/bureau/dodont",
   "permalink": "/docs/bureau/dodont",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/bureau/dodont.md",
+  "tags": [],
   "version": "current",
   "sidebarPosition": 6,
   "frontMatter": {
@@ -20,7 +20,7 @@
     "permalink": "/docs/bureau/voorkeuren"
   },
   "next": {
-    "title": "That's it! 🥳",
+    "title": "thatsit",
     "permalink": "/docs/thatsit"
   }
 }

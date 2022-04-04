@@ -1,7 +1,6 @@
 {
   "unversionedId": "tools/unsplash",
   "id": "tools/unsplash",
-  "isDocsHomePage": false,
   "title": "unsplash",
   "description": "",
   "source": "@site/docs/tools/unsplash.md",
@@ -9,6 +8,7 @@
   "slug": "/tools/unsplash",
   "permalink": "/docs/tools/unsplash",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/tools/unsplash.md",
+  "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",

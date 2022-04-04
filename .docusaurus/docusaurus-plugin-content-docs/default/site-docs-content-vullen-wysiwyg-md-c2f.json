@@ -1,14 +1,14 @@
 {
   "unversionedId": "content vullen/wysiwyg",
   "id": "content vullen/wysiwyg",
-  "isDocsHomePage": false,
-  "title": "WYSIWYG",
+  "title": "wysiwyg",
   "description": "De \"What you see is what you get\" Editor is een krachtige alles in 1 tekst editor voor WordPress. In deze tutorial leggen we je alle functies uit van deze editor.",
   "source": "@site/docs/content vullen/wysiwyg.md",
   "sourceDirName": "content vullen",
   "slug": "/content vullen/wysiwyg",
   "permalink": "/docs/content vullen/wysiwyg",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/content vullen/wysiwyg.md",
+  "tags": [],
   "version": "current",
   "sidebarPosition": 2,
   "frontMatter": {
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Uitleg",
+    "title": "uitleg",
     "permalink": "/docs/content vullen/uitleg"
   },
   "next": {
-    "title": "Afbeelding",
+    "title": "afbeelding",
     "permalink": "/docs/content vullen/afbeelding"
   }
 }

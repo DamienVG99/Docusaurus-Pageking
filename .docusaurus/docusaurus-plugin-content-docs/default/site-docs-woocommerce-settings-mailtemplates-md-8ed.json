@@ -1,7 +1,6 @@
 {
   "unversionedId": "woocommerce/settings/mailtemplates",
   "id": "woocommerce/settings/mailtemplates",
-  "isDocsHomePage": false,
   "title": "mailtemplates",
   "description": "",
   "source": "@site/docs/woocommerce/settings/mailtemplates.md",
@@ -9,6 +8,7 @@
   "slug": "/woocommerce/settings/mailtemplates",
   "permalink": "/docs/woocommerce/settings/mailtemplates",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/woocommerce/settings/mailtemplates.md",
+  "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",

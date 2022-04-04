@@ -1,7 +1,6 @@
 {
   "unversionedId": "formulieren/mailchimp",
   "id": "formulieren/mailchimp",
-  "isDocsHomePage": false,
   "title": "mailchimp",
   "description": "",
   "source": "@site/docs/formulieren/mailchimp.md",
@@ -9,6 +8,7 @@
   "slug": "/formulieren/mailchimp",
   "permalink": "/docs/formulieren/mailchimp",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/formulieren/mailchimp.md",
+  "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",

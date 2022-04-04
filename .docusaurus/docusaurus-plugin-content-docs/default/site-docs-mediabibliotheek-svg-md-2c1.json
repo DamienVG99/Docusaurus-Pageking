@@ -1,7 +1,6 @@
 {
   "unversionedId": "mediabibliotheek/svg",
   "id": "mediabibliotheek/svg",
-  "isDocsHomePage": false,
   "title": "svg",
   "description": "",
   "source": "@site/docs/mediabibliotheek/svg.md",
@@ -9,6 +8,7 @@
   "slug": "/mediabibliotheek/svg",
   "permalink": "/docs/mediabibliotheek/svg",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/mediabibliotheek/svg.md",
+  "tags": [],
   "version": "current",
   "sidebarPosition": 5,
   "frontMatter": {
@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Comprimeren",
+    "title": "groot",
     "permalink": "/docs/mediabibliotheek/groot"
   },
   "next": {

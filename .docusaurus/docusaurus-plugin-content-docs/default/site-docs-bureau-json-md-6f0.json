@@ -1,7 +1,6 @@
 {
   "unversionedId": "bureau/json",
   "id": "bureau/json",
-  "isDocsHomePage": false,
   "title": "JSON",
   "description": "",
   "source": "@site/docs/bureau/json.md",
@@ -9,6 +8,7 @@
   "slug": "/bureau/json",
   "permalink": "/docs/bureau/json",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/bureau/json.md",
+  "tags": [],
   "version": "current",
   "sidebarPosition": 4,
   "frontMatter": {

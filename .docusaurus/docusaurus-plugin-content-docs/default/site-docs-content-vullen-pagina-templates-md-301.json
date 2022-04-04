@@ -1,14 +1,14 @@
 {
   "unversionedId": "content vullen/pagina_templates",
   "id": "content vullen/pagina_templates",
-  "isDocsHomePage": false,
-  "title": "Pagina Templates",
+  "title": "pagina_templates",
   "description": "@Wouter",
   "source": "@site/docs/content vullen/pagina_templates.md",
   "sourceDirName": "content vullen",
   "slug": "/content vullen/pagina_templates",
   "permalink": "/docs/content vullen/pagina_templates",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/content vullen/pagina_templates.md",
+  "tags": [],
   "version": "current",
   "sidebarPosition": 4,
   "frontMatter": {
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Afbeelding",
+    "title": "afbeelding",
     "permalink": "/docs/content vullen/afbeelding"
   },
   "next": {
-    "title": "Post Types",
+    "title": "posttypes",
     "permalink": "/docs/content vullen/posttypes"
   }
 }

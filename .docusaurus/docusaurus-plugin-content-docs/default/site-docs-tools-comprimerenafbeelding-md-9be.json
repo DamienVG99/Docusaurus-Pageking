@@ -1,7 +1,6 @@
 {
   "unversionedId": "tools/comprimerenafbeelding",
   "id": "tools/comprimerenafbeelding",
-  "isDocsHomePage": false,
   "title": "comprimerenafbeelding",
   "description": "",
   "source": "@site/docs/tools/comprimerenafbeelding.md",
@@ -9,6 +8,7 @@
   "slug": "/tools/comprimerenafbeelding",
   "permalink": "/docs/tools/comprimerenafbeelding",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/tools/comprimerenafbeelding.md",
+  "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",

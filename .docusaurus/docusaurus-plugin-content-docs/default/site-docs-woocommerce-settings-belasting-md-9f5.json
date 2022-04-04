@@ -1,7 +1,6 @@
 {
   "unversionedId": "woocommerce/settings/belasting",
   "id": "woocommerce/settings/belasting",
-  "isDocsHomePage": false,
   "title": "belasting",
   "description": "",
   "source": "@site/docs/woocommerce/settings/belasting.md",
@@ -9,6 +8,7 @@
   "slug": "/woocommerce/settings/belasting",
   "permalink": "/docs/woocommerce/settings/belasting",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/woocommerce/settings/belasting.md",
+  "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",

@@ -1,7 +1,6 @@
 {
   "unversionedId": "formulieren/mails",
   "id": "formulieren/mails",
-  "isDocsHomePage": false,
   "title": "mails",
   "description": "",
   "source": "@site/docs/formulieren/mails.md",
@@ -9,6 +8,7 @@
   "slug": "/formulieren/mails",
   "permalink": "/docs/formulieren/mails",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/formulieren/mails.md",
+  "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",

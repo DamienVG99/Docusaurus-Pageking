@@ -1,7 +1,6 @@
 {
   "unversionedId": "bureau/artboard",
   "id": "bureau/artboard",
-  "isDocsHomePage": false,
   "title": "Artboards",
   "description": "",
   "source": "@site/docs/bureau/artboard.md",
@@ -9,6 +8,7 @@
   "slug": "/bureau/artboard",
   "permalink": "/docs/bureau/artboard",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/bureau/artboard.md",
+  "tags": [],
   "version": "current",
   "sidebarPosition": 2,
   "frontMatter": {

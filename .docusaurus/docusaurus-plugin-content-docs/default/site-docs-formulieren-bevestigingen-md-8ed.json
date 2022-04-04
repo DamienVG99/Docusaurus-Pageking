@@ -1,14 +1,14 @@
 {
   "unversionedId": "formulieren/bevestigingen",
   "id": "formulieren/bevestigingen",
-  "isDocsHomePage": false,
-  "title": "Bevestigingen",
+  "title": "bevestigingen",
   "description": "Als je in het formulier zit, heb je bovenaan de knop Instellingen. Als je hier met je muis overheen gaat, dan kun je hier kiezen voor Bevestigingen.",
   "source": "@site/docs/formulieren/bevestigingen.md",
   "sourceDirName": "formulieren",
   "slug": "/formulieren/bevestigingen",
   "permalink": "/docs/formulieren/bevestigingen",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/formulieren/bevestigingen.md",
+  "tags": [],
   "version": "current",
   "sidebarPosition": 3,
   "frontMatter": {
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Meldingen",
+    "title": "meldingen",
     "permalink": "/docs/formulieren/meldingen"
   },
   "next": {
-    "title": "Beveiliging",
+    "title": "beveiligingen",
     "permalink": "/docs/formulieren/beveiligingen"
   }
 }

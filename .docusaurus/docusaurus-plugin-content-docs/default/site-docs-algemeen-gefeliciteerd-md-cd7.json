@@ -1,7 +1,6 @@
 {
   "unversionedId": "algemeen/gefeliciteerd",
   "id": "algemeen/gefeliciteerd",
-  "isDocsHomePage": false,
   "title": "Welkom!",
   "description": "We heten je van harte welkom op onze Wiki. In de linkerbalk kun je kiezen voor het onderwerp waar je meer over wilt weten. Als je vragen hebt, laat het dan weten via support@pageking.nl of telefonisch via 076-7002582",
   "source": "@site/docs/algemeen/gefeliciteerd.md",
@@ -9,6 +8,7 @@
   "slug": "/algemeen/gefeliciteerd",
   "permalink": "/docs/algemeen/gefeliciteerd",
   "editUrl": "https://github.com/DamienVG99/Docusaurus-Pageking/docs/algemeen/gefeliciteerd.md",
+  "tags": [],
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "",
+    "title": "Welkom op onze Wiki!",
     "permalink": "/docs/intro"
   },
   "next": {
-    "title": "Inloggen 🔐",
+    "title": "inloggen",
     "permalink": "/docs/algemeen/inloggen"
   }
 }
