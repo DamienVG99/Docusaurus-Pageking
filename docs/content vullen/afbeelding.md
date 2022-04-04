@@ -20,4 +20,4 @@ Als je de afbeelding hebt toegevoegd en je over de afbeelding heen gaat met je m
 
 ## Verwijderen van de afbeelding
 
-Dit werkt op dezelfde manier als het bewerken, echter dan druk je op het kruisje, zodra je met je muis over de afbeelding heen gaat. 
+Dit werkt op dezelfde manier als het bewerken, echter dan druk je op het kruisje, zodra je met je muis over de afbeelding heen gaat.
