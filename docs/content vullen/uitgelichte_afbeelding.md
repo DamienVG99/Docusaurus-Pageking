@@ -6,7 +6,7 @@ sidebar_position: 13
 
 De uitgelichte afbeelding is de afbeelding welke op een zogenoemde archiefpagina wordt gebruikt.
 
-Wanneer je in een [Post Type](/posttypes) een uitgelichte afbeelding hebt ingesteld, dan kun je deze afbeelding hier zien.
+Wanneer je in een [Post Type](/posttypes.md) een uitgelichte afbeelding hebt ingesteld, dan kun je deze afbeelding hier zien.
 
 ## Voorbeeld
 
