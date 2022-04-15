@@ -38,6 +38,6 @@ Dit zorgt ervoor dat Google jouw website hoger indexeerd. Dit is een belangrijke
 
 ## Hoe updaten wij caching?
 
-Wij updaten caching automatisch bij het aanpassen of aanmaken van een post. Hierdoor is de snelheid altijd optimaal. Er is 1 laadpoging waarin de website iets trager is na zo'n update, om de cache opnieuw op te bouwen, maar daarna is deze weer snel.
+Wij updaten caching automatisch bij het aanpassen of aanmaken van een post. Hierdoor is de snelheid altijd optimaal. Er is 1 laadpoging waarin de website iets trager is na zo'n update, om de cache opnieuw op te bouwen, daarna is deze weer snel.
 
 Ook kunnen we handmatig aangeven of we de cache willen verversen, echter is dit meestal niet nodig.
