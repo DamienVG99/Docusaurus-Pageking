@@ -7,7 +7,7 @@
 /* You can override the default Infima variables here. */
 @font-face {
   font-family: "Circular-Regular";
-  src: url('../../static/fonts/CircularStd-Book.ttf');
+  src: url('../../static/fonts/CodecPro-News.ttf');
 }
 :root {
   --ifm-color-primary: #25c2a0 !important;
@@ -37,7 +37,7 @@ html{
 }
 @font-face {
   font-family: "Circular-Bold";
-  src: url('../../static/fonts/CircularStd-Bold.ttf');
+  src: url('../../static/fonts/CodecPro-Bold.ttf');
 }
 
 h1, h2, h3, h4, h5, h6{
