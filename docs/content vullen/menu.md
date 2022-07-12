@@ -9,7 +9,7 @@ Dit vind je aan de linkerkant in het menu. Je gaat met je muis over Weergave en 
 
 
 ### 3. Klik op de pagina die je toe wilt voegen
-Je kunt hier kiezen tussen de verschillende ![Post Types](/posttypes)
+Je kunt hier kiezen tussen de verschillende ![Post Types](https://wiki.pageking.nl/docs/content%20vullen/posttypes)
 ![Step 3 screenshot](https://images.tango.us/public/screenshot_b6f4fa82-d018-4cc8-98a3-517f443e43f1.png?crop=focalpoint&fit=crop&fp-x=0.1263&fp-y=0.4653&fp-z=3.2030&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1718%3A1311)
 
 
