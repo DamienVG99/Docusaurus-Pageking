@@ -1,4 +1,4 @@
-# [Menu](https://app.tango.us/app/workflow/1868cb61-701c-4eb1-b00e-fbdb54fc8440?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
+# Menu's
 
 ### 1. Ga naar je WordPress Dashboard
 
